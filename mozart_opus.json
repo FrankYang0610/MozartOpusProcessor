@@ -1,0 +1,7682 @@
+[
+    {
+        "K": "—",
+        "K6": "1a",
+        "title": "Andante",
+        "force": "pf",
+        "key": "C major",
+        "date": "1761",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "1b",
+        "title": "Allegro",
+        "force": "pf",
+        "key": "C major",
+        "date": "1761",
+        "genre": "Keyboard",
+        "notes": "No.2 in Nannerl's Music Book"
+    },
+    {
+        "K": "—",
+        "K6": "1c",
+        "title": "Allegro",
+        "force": "pf",
+        "key": "F major",
+        "date": "1761",
+        "genre": "Keyboard",
+        "notes": "No.3 in Nannerl's Music Book"
+    },
+    {
+        "K": "—",
+        "K6": "1d",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "F major",
+        "date": "1761",
+        "genre": "Keyboard",
+        "notes": "No.4 in Nannerl's Music Book"
+    },
+    {
+        "K": "1",
+        "K6": "1e",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "G major",
+        "date": "1761–62",
+        "genre": "Keyboard",
+        "notes": "No.5 in Nannerl's Music Book"
+    },
+    {
+        "K": "—",
+        "K6": "1f",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "C major",
+        "date": "1761–62",
+        "genre": "Keyboard",
+        "notes": "No.6 in Nannerl's Music Book"
+    },
+    {
+        "K": "2",
+        "K6": "2",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "F major",
+        "date": "1762",
+        "genre": "Keyboard",
+        "notes": "No.7 in Nannerl's Music Book"
+    },
+    {
+        "K": "3",
+        "K6": "3",
+        "title": "Allegro",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1762",
+        "genre": "Keyboard",
+        "notes": "No.8 in Nannerl's Music Book"
+    },
+    {
+        "K": "4",
+        "K6": "4",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "F major",
+        "date": "1762",
+        "genre": "Keyboard",
+        "notes": "No.9 in Nannerl's Music Book"
+    },
+    {
+        "K": "5",
+        "K6": "5",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "F major",
+        "date": "1762",
+        "genre": "Keyboard",
+        "notes": "No.10 in Nannerl's Music Book"
+    },
+    {
+        "K": "9a",
+        "K6": "5a",
+        "title": "Allegro",
+        "force": "pf",
+        "key": "C major",
+        "date": "1763–64",
+        "genre": "Keyboard",
+        "notes": "No.11 in Nannerl's Music Book"
+    },
+    {
+        "K": "9b",
+        "K6": "5b",
+        "title": "Andante",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1763–64",
+        "genre": "Keyboard",
+        "notes": "No.12 in Nannerl's Music Book; incomplete"
+    },
+    {
+        "K": "6",
+        "K6": "6",
+        "title": "Violin Sonata (\"No.1\")",
+        "force": "vn pf",
+        "key": "C major",
+        "date": "1762–63",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "7",
+        "K6": "7",
+        "title": "Violin Sonata (\"No.2\")",
+        "force": "vn pf",
+        "key": "D major",
+        "date": "1763–64",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "8",
+        "K6": "8",
+        "title": "Violin Sonata (\"No.3\")",
+        "force": "vn pf",
+        "key": "B♭ major",
+        "date": "1763",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "9",
+        "K6": "9",
+        "title": "Violin Sonata (\"No.4\")",
+        "force": "vn pf",
+        "key": "G major",
+        "date": "1764",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "10",
+        "K6": "10",
+        "title": "Violin Sonata (\"No.5\")",
+        "force": "vn/fl vc pf",
+        "key": "B♭ major",
+        "date": "1764",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "11",
+        "K6": "11",
+        "title": "Violin Sonata (\"No.6\")",
+        "force": "vn/fl vc pf",
+        "key": "G major",
+        "date": "1764",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "12",
+        "K6": "12",
+        "title": "Violin Sonata (\"No.7\")",
+        "force": "vn/fl vc pf",
+        "key": "A major",
+        "date": "1764",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "13",
+        "K6": "13",
+        "title": "Violin Sonata (\"No.8\")",
+        "force": "vn/fl vc pf",
+        "key": "F major",
+        "date": "1764",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "14",
+        "K6": "14",
+        "title": "Violin Sonata (\"No.9\")",
+        "force": "vn/fl vc pf",
+        "key": "C major",
+        "date": "1764",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "15",
+        "K6": "15",
+        "title": "Violin Sonata (\"No.10\")",
+        "force": "vn/fl vc pf",
+        "key": "B♭ major",
+        "date": "1764",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15a",
+        "title": "Allegro",
+        "force": "pf",
+        "key": "F major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15b",
+        "title": "Andantino",
+        "force": "pf",
+        "key": "C major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15c",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "G major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15d",
+        "title": "Rondo",
+        "force": "pf",
+        "key": "D major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15e",
+        "title": "Country Dance",
+        "force": "pf",
+        "key": "G major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15f",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "C major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15g",
+        "title": "Prelude",
+        "force": "org",
+        "key": "G major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15h",
+        "title": "Country Dance",
+        "force": "pf",
+        "key": "F major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15i",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "A major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15k",
+        "title": "Minore",
+        "force": "pf",
+        "key": "A minor",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15l",
+        "title": "Country Dance",
+        "force": "pf",
+        "key": "A major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15m",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "F major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15n",
+        "title": "Andante",
+        "force": "pf",
+        "key": "C major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15o",
+        "title": "Andante",
+        "force": "pf",
+        "key": "D major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15p",
+        "title": "Piano Sonata",
+        "force": "pf",
+        "key": "G minor",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15q",
+        "title": "Andante",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15r",
+        "title": "Andante",
+        "force": "pf",
+        "key": "G minor",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15s",
+        "title": "Rondo",
+        "force": "pf",
+        "key": "C major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15t",
+        "title": "Piano Sonata",
+        "force": "pf",
+        "key": "F major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15u",
+        "title": "Sicilianos",
+        "force": "pf",
+        "key": "D minor",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15v",
+        "title": "Piano Sonata",
+        "force": "pf",
+        "key": "F major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15w",
+        "title": "Allemande",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15x",
+        "title": "Piano Sonata",
+        "force": "pf",
+        "key": "F major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15y",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "G major",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15z",
+        "title": "Gigues",
+        "force": "pf",
+        "key": "C minor",
+        "date": "1764",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15aa",
+        "title": "Piano Sonata",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15bb",
+        "title": "Piano Sonata",
+        "force": "pf",
+        "key": "D major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15cc",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "E♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15dd",
+        "title": "Andante",
+        "force": "pf",
+        "key": "A♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15ee",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "E♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15ff",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "A♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15gg",
+        "title": "Country Dance",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15hh",
+        "title": "Rondo",
+        "force": "pf",
+        "key": "F major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15ii",
+        "title": "Andante",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15kk",
+        "title": "Piano Sonata",
+        "force": "pf",
+        "key": "E♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15ll",
+        "title": "Presto",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15mm",
+        "title": "Andante",
+        "force": "pf",
+        "key": "E♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15nn",
+        "title": "Piano Sonata",
+        "force": "pf",
+        "key": "F major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "—",
+        "K6": "15oo",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "F major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15pp",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15qq",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "E♭ major",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "15rr",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "C major",
+        "date": "1764-65",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "—",
+        "K6": "15ss",
+        "title": "Fugue for 4 Voices",
+        "force": "pf",
+        "key": "A minor",
+        "date": "1764–65",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "16",
+        "K6": "16",
+        "title": "Symphony No.1",
+        "force": "orch",
+        "key": "E♭ major",
+        "date": "1764–65",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "Anh.220",
+        "K6": "16a",
+        "title": "Symphony (\"No.1\" or \"Odense\")",
+        "force": "orch",
+        "key": "A minor",
+        "date": "1765?",
+        "genre": "Orchestral",
+        "notes": "Mozart's authorship doubtful"
+    },
+    {
+        "K": "19",
+        "K6": "19",
+        "title": "Symphony No.4",
+        "force": "orch",
+        "key": "D major",
+        "date": "1765–66",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "Anh.223",
+        "K6": "19a",
+        "title": "Symphony",
+        "force": "orch",
+        "key": "F major",
+        "date": "1765–66",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "21",
+        "K6": "19c",
+        "title": "Va, dal furor portata",
+        "force": "v orch",
+        "key": "C major",
+        "date": "1765",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "19d",
+        "title": "Sonata",
+        "force": "pf4h",
+        "key": "C major",
+        "date": "1765?",
+        "genre": "Keyboard",
+        "notes": "Mozart's authorship doubtful"
+    },
+    {
+        "K": "20",
+        "K6": "20",
+        "title": "God is Our Refuge",
+        "force": "ch",
+        "key": "G minor",
+        "date": "1765",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "Anh.206",
+        "K6": "21a",
+        "title": "Variations",
+        "force": "pf",
+        "key": "A major",
+        "date": "1765?",
+        "genre": "Keyboard",
+        "notes": "lost"
+    },
+    {
+        "K": "22",
+        "K6": "22",
+        "title": "Symphony No.5",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "1765",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "23",
+        "K6": "23",
+        "title": "Conservati fedele",
+        "force": "v orch",
+        "key": "A major",
+        "date": "1765–66",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "24",
+        "K6": "24",
+        "title": "Variations (8) on \"Laat ons juichen\"",
+        "force": "pf",
+        "key": "G major",
+        "date": "1766",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "25",
+        "K6": "25",
+        "title": "Variations (7) on \"Willem von Nassau\"",
+        "force": "pf",
+        "key": "D major",
+        "date": "1766",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "26",
+        "K6": "26",
+        "title": "Violin Sonata (\"No.11\")",
+        "force": "vn pf",
+        "key": "E♭ major",
+        "date": "1766",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "27",
+        "K6": "27",
+        "title": "Violin Sonata (\"No.12\")",
+        "force": "vn pf",
+        "key": "G major",
+        "date": "1766",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "28",
+        "K6": "28",
+        "title": "Violin Sonata (\"No.13\")",
+        "force": "vn pf",
+        "key": "C major",
+        "date": "1766",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "29",
+        "K6": "29",
+        "title": "Violin Sonata (\"No.14\")",
+        "force": "vn pf",
+        "key": "D major",
+        "date": "1766",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "30",
+        "K6": "30",
+        "title": "Violin Sonata (\"No.15\")",
+        "force": "vn pf",
+        "key": "F major",
+        "date": "1766",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "31",
+        "K6": "31",
+        "title": "Violin Sonata (\"No.16\" or \"No.10\")",
+        "force": "vn pf",
+        "key": "B♭ major",
+        "date": "1766",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "32",
+        "K6": "32",
+        "title": "Galimathias musicum",
+        "force": "hpd orch",
+        "key": "D major",
+        "date": "1766",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "33",
+        "K6": "33",
+        "title": "Kyrie",
+        "force": "ch orch",
+        "key": "F major",
+        "date": "1766",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "33b",
+        "title": "Piece",
+        "force": "pf",
+        "key": "F major",
+        "date": "1766",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "36",
+        "K6": "33i",
+        "title": "Or che il dover (\"Tali e cotanti sono\")",
+        "force": "v orch",
+        "key": "C major",
+        "date": "1766",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "34",
+        "K6": "34",
+        "title": "Scandi coeli limina",
+        "force": "ch orch",
+        "key": "C major",
+        "date": "1766–67",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "35",
+        "K6": "35",
+        "title": "Die Schuldigkeit des ersten Gebotes",
+        "force": "vv ch orch",
+        "key": "C major",
+        "date": "1766–67",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "42",
+        "K6": "35a",
+        "title": "Grabmusik",
+        "force": "vv ch orch",
+        "key": "C major",
+        "date": "1772?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "37",
+        "K6": "37",
+        "title": "Piano Concerto No.1",
+        "force": "pf orch",
+        "key": "F major",
+        "date": "1767",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "38",
+        "K6": "38",
+        "title": "Apollo et Hyacinthus",
+        "force": "vv orch",
+        "key": "",
+        "date": "1767",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "39",
+        "K6": "39",
+        "title": "Piano Concerto No.2",
+        "force": "pf orch",
+        "key": "B♭ major",
+        "date": "1767",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "40",
+        "K6": "40",
+        "title": "Piano Concerto No.3",
+        "force": "pf orch",
+        "key": "D major",
+        "date": "1767",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "41",
+        "K6": "41",
+        "title": "Piano Concerto No.4",
+        "force": "pf orch",
+        "key": "G major",
+        "date": "1767",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "67",
+        "K6": "41h",
+        "title": "Church Sonata (\"No.1\")",
+        "force": "2vn org bc",
+        "key": "E♭ major",
+        "date": "1767",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "68",
+        "K6": "41i",
+        "title": "Church Sonata (\"No.2\")",
+        "force": "2vn org bc",
+        "key": "B♭ major",
+        "date": "1767",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "69",
+        "K6": "41k",
+        "title": "Church Sonata (\"No.3\")",
+        "force": "2vn org bc",
+        "key": "D major",
+        "date": "1767",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "76",
+        "K6": "42a",
+        "title": "Symphony No.43",
+        "force": "orch",
+        "key": "F major",
+        "date": "1767",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "43",
+        "K6": "43",
+        "title": "Symphony No.6",
+        "force": "orch",
+        "key": "F major",
+        "date": "1767",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "45",
+        "K6": "45",
+        "title": "Symphony No.7",
+        "force": "orch",
+        "key": "D major",
+        "date": "1768",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "Anh.221",
+        "K6": "45a",
+        "title": "Symphony (\"Lambach\")",
+        "force": "orch",
+        "key": "G major",
+        "date": "1767",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "Anh.214",
+        "K6": "45b",
+        "title": "Symphony No.55",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "1768?",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "51",
+        "K6": "46a",
+        "title": "La finta semplice",
+        "force": "vv orch",
+        "key": "",
+        "date": "1768",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "50",
+        "K6": "46b",
+        "title": "Bastien und Bastienne",
+        "force": "vv orch",
+        "key": "",
+        "date": "1768",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "52",
+        "K6": "46c",
+        "title": "Daphne, deine Rosenwangen",
+        "force": "v pf",
+        "key": "A major",
+        "date": "1768",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "46d",
+        "title": "Violin Sonata",
+        "force": "vn vc",
+        "key": "C major",
+        "date": "1768",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "46e",
+        "title": "Violin Sonata",
+        "force": "vn vc",
+        "key": "F major",
+        "date": "1768",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "47",
+        "K6": "47",
+        "title": "Veni Sancte Spiritus",
+        "force": "4vv orch",
+        "key": "C major",
+        "date": "1768",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "139",
+        "K6": "47a",
+        "title": "Missa solemnis (\"Mass No.4\" or \"Waisenhaus\")",
+        "force": "vv ch orch",
+        "key": "C minor",
+        "date": "1768",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "49",
+        "K6": "47d",
+        "title": "Missa brevis (\"Mass No.1\")",
+        "force": "vv ch orch",
+        "key": "G major",
+        "date": "1768",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "53",
+        "K6": "47e",
+        "title": "An die Freude",
+        "force": "v pf",
+        "key": "F major",
+        "date": "1768",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "48",
+        "K6": "48",
+        "title": "Symphony No.8",
+        "force": "orch",
+        "key": "D major",
+        "date": "1768",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "65",
+        "K6": "61a",
+        "title": "Missa brevis (\"Mass No.2\")",
+        "force": "vv ch orch",
+        "key": "D minor",
+        "date": "1769",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "61b",
+        "title": "Minuets (7)",
+        "force": "orch",
+        "key": "",
+        "date": "1769",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "70",
+        "K6": "61c",
+        "title": "A Berenice",
+        "force": "v orch",
+        "key": "",
+        "date": "1767?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "103",
+        "K6": "61d",
+        "title": "Minuets (20)",
+        "force": "orch",
+        "key": "",
+        "date": "1772",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "104",
+        "K6": "61e",
+        "title": "Minuets (6)",
+        "force": "orch",
+        "key": "",
+        "date": "1770–71",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "105",
+        "K6": "61f",
+        "title": "Minuets (6)",
+        "force": "orch",
+        "key": "",
+        "date": "1771–72",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "61g",
+        "title": "Minuets (2)",
+        "force": "orch",
+        "key": "",
+        "date": "1770",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "62",
+        "K6": "62",
+        "title": "March",
+        "force": "orch",
+        "key": "D major",
+        "date": "1769",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "100",
+        "K6": "62a",
+        "title": "Cassation (\"Serenade No.1\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1769",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "63",
+        "K6": "63",
+        "title": "Cassation",
+        "force": "orch",
+        "key": "G major",
+        "date": "1769",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "99",
+        "K6": "63a",
+        "title": "Cassation",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "1769",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "64",
+        "title": "Minuet",
+        "force": "orch",
+        "key": "D major",
+        "date": "1769",
+        "genre": "Orchestral",
+        "notes": "spurious"
+    },
+    {
+        "K": "66",
+        "K6": "66",
+        "title": "Mass (\"Dominicus\") (\"No.3\")",
+        "force": "4vv ch orch",
+        "key": "C major",
+        "date": "1769",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "117",
+        "K6": "66a",
+        "title": "Benedictus sit Deus",
+        "force": "v ch orch",
+        "key": "C major",
+        "date": "1769",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "141",
+        "K6": "66b",
+        "title": "Te Deum",
+        "force": "ch orch",
+        "key": "C major",
+        "date": "1769",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "Anh.215",
+        "K6": "66c",
+        "title": "Symphony",
+        "force": "orch",
+        "key": "D major",
+        "date": "1769",
+        "genre": "Orchestral",
+        "notes": "lost"
+    },
+    {
+        "K": "Anh.217",
+        "K6": "66d",
+        "title": "Symphony",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "1769",
+        "genre": "Orchestral",
+        "notes": "lost"
+    },
+    {
+        "K": "Anh.218",
+        "K6": "66e",
+        "title": "Symphony",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "1769",
+        "genre": "Orchestral",
+        "notes": "lost"
+    },
+    {
+        "K": "71",
+        "K6": "71",
+        "title": "Ah, più tremar non voglio",
+        "force": "v orch",
+        "key": "F major",
+        "date": "1769",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "—",
+        "K6": "72a",
+        "title": "Allegro",
+        "force": "pf",
+        "key": "G major",
+        "date": "1769–70",
+        "genre": "Keyboard",
+        "notes": "incomplete; Mozart's authorship doubtful"
+    },
+    {
+        "K": "143",
+        "K6": "73a",
+        "title": "Ergo interest (\"Quaere superna\")",
+        "force": "v orch",
+        "key": "G major",
+        "date": "1772–73",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "78",
+        "K6": "73b",
+        "title": "Per pietà, bell'idol mio",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1766",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "88",
+        "K6": "73c",
+        "title": "Fra cento affanni",
+        "force": "v orch",
+        "key": "C major",
+        "date": "1770",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "79",
+        "K6": "73d",
+        "title": "O temerario Arbace",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1766",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "77",
+        "K6": "73e",
+        "title": "Misero me (\"Misero pargoletto\")",
+        "force": "v orch",
+        "key": "B♭ major",
+        "date": "1770",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "80",
+        "K6": "73f",
+        "title": "String Quartet No.1",
+        "force": "2vn va vc",
+        "key": "G major",
+        "date": "1770–73",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "123",
+        "K6": "73g",
+        "title": "Country Dance",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "1770",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "94",
+        "K6": "73h",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "D major",
+        "date": "1769–70",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "73i",
+        "title": "Canon",
+        "force": "5vv",
+        "key": "A major",
+        "date": "1772",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "89",
+        "K6": "73k",
+        "title": "Kyrie",
+        "force": "5sop",
+        "key": "G major",
+        "date": "1772",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "81",
+        "K6": "73l",
+        "title": "Symphony No.44",
+        "force": "orch",
+        "key": "D major",
+        "date": "1770",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "97",
+        "K6": "73m",
+        "title": "Symphony No.47",
+        "force": "orch",
+        "key": "D major",
+        "date": "1770",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "95",
+        "K6": "73n",
+        "title": "Symphony No.45",
+        "force": "orch",
+        "key": "D major",
+        "date": "1770",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "82",
+        "K6": "73o",
+        "title": "Se ardire, e speranza",
+        "force": "v orch",
+        "key": "F major",
+        "date": "1770",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "83",
+        "K6": "73p",
+        "title": "Se tutti i mali miei",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1770",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "84",
+        "K6": "73q",
+        "title": "Symphony No.11",
+        "force": "orch",
+        "key": "D major",
+        "date": "1770",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "73r",
+        "title": "Puzzle Canons (4)",
+        "force": "vv",
+        "key": "",
+        "date": "1772–74?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "85",
+        "K6": "73s",
+        "title": "Miserere",
+        "force": "vv bc",
+        "key": "A minor",
+        "date": "1772–74?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "122",
+        "K6": "73t",
+        "title": "Minuet",
+        "force": "orch",
+        "key": "E♭ major",
+        "date": "1770",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "44",
+        "K6": "73u",
+        "title": "Cibavit eos",
+        "force": "ch org",
+        "key": "A minor",
+        "date": "1770",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "86",
+        "K6": "73v",
+        "title": "Quaerite primum regnum Dei",
+        "force": "ch",
+        "key": "D minor",
+        "date": "1770",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "73w",
+        "title": "Fugue",
+        "force": "pf",
+        "key": "D major",
+        "date": "1773",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "—",
+        "K6": "73x",
+        "title": "Canonic Studies (14)",
+        "force": "",
+        "key": "",
+        "date": "1772–74",
+        "genre": "?",
+        "notes": ""
+    },
+    {
+        "K": "74",
+        "K6": "74",
+        "title": "Symphony No.10",
+        "force": "orch",
+        "key": "G major",
+        "date": "1770",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "87",
+        "K6": "74a",
+        "title": "Mitridate, re di Ponto",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1770",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "74b",
+        "title": "Non curo l'affetto",
+        "force": "v orch",
+        "key": "E major",
+        "date": "1771",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "118",
+        "K6": "74c",
+        "title": "La Betulia Liberata",
+        "force": "vv orch",
+        "key": "",
+        "date": "1771",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "108",
+        "K6": "74d",
+        "title": "Regina coeli",
+        "force": "v ch orch",
+        "key": "C major",
+        "date": "1771",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "109",
+        "K6": "74e",
+        "title": "Litaniae Lauretanae",
+        "force": "vv ch orch",
+        "key": "B♭ major",
+        "date": "1771",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "72",
+        "K6": "74f",
+        "title": "Inter natos mulierum",
+        "force": "ch orch",
+        "key": "G major",
+        "date": "1777–80?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "75",
+        "K6": "75",
+        "title": "Symphony No.42",
+        "force": "orch",
+        "key": "F major",
+        "date": "1771",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "73",
+        "K6": "75a",
+        "title": "Symphony No.9",
+        "force": "orch",
+        "key": "C major",
+        "date": "1769–72",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "110",
+        "K6": "75b",
+        "title": "Symphony No.12",
+        "force": "orch",
+        "key": "G major",
+        "date": "1771",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "115",
+        "K6": "166d",
+        "title": "Missa brevis",
+        "force": "ch org",
+        "key": "C major",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (by Leopold Mozart)"
+    },
+    {
+        "K": "116",
+        "K6": "90a",
+        "title": "Missa brevis",
+        "force": "ch org",
+        "key": "F major",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (by Leopold Mozart)"
+    },
+    {
+        "K": "107",
+        "K6": "107",
+        "title": "Piano Concertos (3)",
+        "force": "pf orch",
+        "key": "",
+        "date": "1771–72",
+        "genre": "Orchestral",
+        "notes": "based on sonatas by Johann Christian Bach"
+    },
+    {
+        "K": "111",
+        "K6": "111",
+        "title": "Ascanio in Alba",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1771",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "120",
+        "K6": "111a",
+        "title": "Symphony No.48",
+        "force": "orch",
+        "key": "D major",
+        "date": "1771",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "96",
+        "K6": "111b",
+        "title": "Symphony No.46",
+        "force": "orch",
+        "key": "C major",
+        "date": "1771?",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "112",
+        "K6": "112",
+        "title": "Symphony No.13",
+        "force": "orch",
+        "key": "F major",
+        "date": "1771",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "113",
+        "K6": "113",
+        "title": "Divertimento (\"No.1\")",
+        "force": "orch",
+        "key": "E♭ major",
+        "date": "1771",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "114",
+        "K6": "114",
+        "title": "Symphony No.14",
+        "force": "orch",
+        "key": "A major",
+        "date": "1771",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "381",
+        "K6": "123a",
+        "title": "Sonata",
+        "force": "pf4h",
+        "key": "D major",
+        "date": "1773–74",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "124",
+        "K6": "124",
+        "title": "Symphony No.15",
+        "force": "orch",
+        "key": "G major",
+        "date": "1772",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "144",
+        "K6": "124a",
+        "title": "Church Sonata (\"No.4\")",
+        "force": "2vn org bc",
+        "key": "D major",
+        "date": "1774",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "145",
+        "K6": "124b",
+        "title": "Church Sonata (\"No.5\")",
+        "force": "2vn org bc",
+        "key": "F major",
+        "date": "1774",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "125",
+        "K6": "125",
+        "title": "Litaniae de venerabili altaris sacramento",
+        "force": "vv ch orch",
+        "key": "B♭ major",
+        "date": "1772",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "136",
+        "K6": "125a",
+        "title": "Divertimento (\"Salzburg Symphony No.1\")",
+        "force": "2vn va vc",
+        "key": "D major",
+        "date": "1772",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "137",
+        "K6": "125b",
+        "title": "Divertimento (\"Salzburg Symphony No.2\")",
+        "force": "2vn va vc",
+        "key": "B♭ major",
+        "date": "1772",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "138",
+        "K6": "125c",
+        "title": "Divertimento (\"Salzburg Symphony No.3\")",
+        "force": "2vn va vc",
+        "key": "F major",
+        "date": "1772",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "149",
+        "K6": "125d",
+        "title": "Die grossmütige Gelassenheit",
+        "force": "v pf",
+        "key": "B♭ major",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (by Leopold Mozart)"
+    },
+    {
+        "K": "150",
+        "K6": "125e",
+        "title": "Geheime Liebe",
+        "force": "v pf",
+        "key": "G major",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (by Leopold Mozart)"
+    },
+    {
+        "K": "151",
+        "K6": "125f",
+        "title": "Die Zufriedenheit im niedrigen Stande (\"Ich trachte nicht\")",
+        "force": "v pf",
+        "key": "F major",
+        "date": "1772",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "147",
+        "K6": "125g",
+        "title": "Wie unglucklich bin ich nit",
+        "force": "v pf",
+        "key": "F major",
+        "date": "1772",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "148",
+        "K6": "125h",
+        "title": "Lobegesang auf die feierliche Johannisloge",
+        "force": "v pf",
+        "key": "D major",
+        "date": "1774–76?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "126",
+        "K6": "126",
+        "title": "Il sogno di Scipione",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1771",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "127",
+        "K6": "127",
+        "title": "Regina coeli",
+        "force": "v ch orch",
+        "key": "B♭ major",
+        "date": "1772",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "128",
+        "K6": "128",
+        "title": "Symphony No.16",
+        "force": "orch",
+        "key": "C major",
+        "date": "1772",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "129",
+        "K6": "129",
+        "title": "Symphony No.17",
+        "force": "orch",
+        "key": "G major",
+        "date": "1772",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "130",
+        "K6": "130",
+        "title": "Symphony No.18",
+        "force": "orch",
+        "key": "F major",
+        "date": "1772",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "164",
+        "K6": "130a",
+        "title": "Minuets (6)",
+        "force": "orch",
+        "key": "",
+        "date": "1772",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "131",
+        "K6": "131",
+        "title": "Divertimento (\"No.2\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1772",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "132",
+        "K6": "132",
+        "title": "Symphony No.19",
+        "force": "orch",
+        "key": "E♭ major",
+        "date": "1772",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "133",
+        "K6": "133",
+        "title": "Symphony No.20",
+        "force": "orch",
+        "key": "D major",
+        "date": "1772",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "134",
+        "K6": "134",
+        "title": "Symphony No.21",
+        "force": "orch",
+        "key": "A major",
+        "date": "1772",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "155",
+        "K6": "134a",
+        "title": "String Quartet No.2 (\"Divertimento\")",
+        "force": "2vn va vc",
+        "key": "D major",
+        "date": "1772",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "156",
+        "K6": "134b",
+        "title": "String Quartet No.3",
+        "force": "2vn va vc",
+        "key": "G major",
+        "date": "1772",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "135",
+        "K6": "135",
+        "title": "Lucio Silla",
+        "force": "vv ch orch",
+        "key": "D major",
+        "date": "1772",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "161/163",
+        "K6": "141a",
+        "title": "Symphony No.50",
+        "force": "orch",
+        "key": "D major",
+        "date": "1774",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "157",
+        "K6": "157",
+        "title": "String Quartet No.4",
+        "force": "2vn va vc",
+        "key": "C major",
+        "date": "1772",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "158",
+        "K6": "158",
+        "title": "String Quartet No.5 (\"Divertimento\")",
+        "force": "2vn va vc",
+        "key": "F major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "165",
+        "K6": "158a",
+        "title": "Exsultate, jubilate",
+        "force": "v orch",
+        "key": "F major",
+        "date": "1773",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "159",
+        "K6": "159",
+        "title": "String Quartet No.6 (\"Divertimento\")",
+        "force": "2vn va vc",
+        "key": "B♭ major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "160",
+        "K6": "159a",
+        "title": "String Quartet No.7",
+        "force": "2vn va vc",
+        "key": "E♭ major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "186",
+        "K6": "159b",
+        "title": "Divertimento (\"No.4\")",
+        "force": "2ob 2eh 2cl 2bn 2hn",
+        "key": "B♭ major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "166",
+        "K6": "159d",
+        "title": "Divertimento (\"No.3\")",
+        "force": "2ob 2eh 2cl 2bn 2hn",
+        "key": "E♭ major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "184",
+        "K6": "161a",
+        "title": "Symphony No.26",
+        "force": "orch",
+        "key": "E♭ major",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "199",
+        "K6": "161b",
+        "title": "Symphony No.27",
+        "force": "orch",
+        "key": "G major",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "162",
+        "K6": "162",
+        "title": "Symphony No.22",
+        "force": "orch",
+        "key": "C major",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "181",
+        "K6": "162b",
+        "title": "Symphony No.23",
+        "force": "orch",
+        "key": "D major",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "167",
+        "K6": "167",
+        "title": "Missa (\"No.7\" or \"Trinitatis\")",
+        "force": "ch orch",
+        "key": "C major",
+        "date": "1773",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "205",
+        "K6": "167A",
+        "title": "Divertimento (\"No.7\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "290",
+        "K6": "167AB",
+        "title": "March",
+        "force": "orch",
+        "key": "D major",
+        "date": "1772",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "185",
+        "K6": "167a",
+        "title": "Serenade (\"No.3\" or \"Antretter\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "189",
+        "K6": "167b",
+        "title": "March",
+        "force": "orch",
+        "key": "D major",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "168",
+        "K6": "168",
+        "title": "String Quartet No.8",
+        "force": "2vn va vc",
+        "key": "F major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "169",
+        "K6": "169",
+        "title": "String Quartet No.9",
+        "force": "2vn va vc",
+        "key": "A major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "170",
+        "K6": "170",
+        "title": "String Quartet No.10",
+        "force": "2vn va vc",
+        "key": "C major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "171",
+        "K6": "171",
+        "title": "String Quartet No.11",
+        "force": "2vn va vc",
+        "key": "E♭ major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "172",
+        "K6": "172",
+        "title": "String Quartet No.12",
+        "force": "2vn va vc",
+        "key": "B♭ major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "173",
+        "K6": "173",
+        "title": "String Quartet No.13",
+        "force": "2vn va vc",
+        "key": "D minor",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "180",
+        "K6": "173c",
+        "title": "Variations (6) on \"Mio caro adone\"",
+        "force": "pf",
+        "key": "G major",
+        "date": "1773",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "182",
+        "K6": "173dA",
+        "title": "Symphony No.24",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "183",
+        "K6": "173dB",
+        "title": "Symphony No.25",
+        "force": "orch",
+        "key": "G minor",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "174",
+        "K6": "174",
+        "title": "String Quintet No.1",
+        "force": "2vn 2va vc",
+        "key": "B♭ major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "175",
+        "K6": "175",
+        "title": "Piano Concerto No.5",
+        "force": "pf orch",
+        "key": "D major",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "176",
+        "K6": "176",
+        "title": "Minuets (16)",
+        "force": "orch",
+        "key": "",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "201",
+        "K6": "186a",
+        "title": "Symphony No.29",
+        "force": "orch",
+        "key": "A major",
+        "date": "1774",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "202",
+        "K6": "186b",
+        "title": "Symphony No.30",
+        "force": "orch",
+        "key": "D major",
+        "date": "1774",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "358",
+        "K6": "186c",
+        "title": "Sonata",
+        "force": "pf4h",
+        "key": "B♭ major",
+        "date": "1773–74",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "195",
+        "K6": "186d",
+        "title": "Litaniae Lauretanae",
+        "force": "vv ch orch",
+        "key": "D major",
+        "date": "1774",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "190",
+        "K6": "186E",
+        "title": "Concertone",
+        "force": "2vn orch",
+        "key": "C major",
+        "date": "1774",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "191",
+        "K6": "186e",
+        "title": "Bassoon Concerto",
+        "force": "bn orch",
+        "key": "B♭ major",
+        "date": "1774",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "192",
+        "K6": "186f",
+        "title": "Missa brevis (\"Mass No.6\")",
+        "force": "vv ch orch",
+        "key": "F major",
+        "date": "1774",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "193",
+        "K6": "186g",
+        "title": "Dixit Dominus and Magnificat",
+        "force": "2vv ch orch",
+        "key": "C major",
+        "date": "1774",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "194",
+        "K6": "186h",
+        "title": "Missa brevis (\"Mass No.8\")",
+        "force": "vv ch orch",
+        "key": "D major",
+        "date": "1774",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "91",
+        "K6": "186i",
+        "title": "Kyrie",
+        "force": "ch orch",
+        "key": "D major",
+        "date": "1774",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "179",
+        "K6": "189a",
+        "title": "Variations (12) on a Minuet by Fischer",
+        "force": "pf",
+        "key": "C major",
+        "date": "1774",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "203",
+        "K6": "189b",
+        "title": "Serenade (\"No.4\" or \"Colloredo\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1774",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "237",
+        "K6": "189c",
+        "title": "March",
+        "force": "orch",
+        "key": "D major",
+        "date": "1774",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "279",
+        "K6": "189d",
+        "title": "Piano Sonata No.1",
+        "force": "pf",
+        "key": "C major",
+        "date": "1775",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "280",
+        "K6": "189e",
+        "title": "Piano Sonata No.2",
+        "force": "pf",
+        "key": "F major",
+        "date": "1775",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "281",
+        "K6": "189f",
+        "title": "Piano Sonata No.3",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1775",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "282",
+        "K6": "189g",
+        "title": "Piano Sonata No.4",
+        "force": "pf",
+        "key": "E♭ major",
+        "date": "1775",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "283",
+        "K6": "189h",
+        "title": "Piano Sonata No.5",
+        "force": "pf",
+        "key": "G major",
+        "date": "1775",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "200",
+        "K6": "189k",
+        "title": "Symphony No.28",
+        "force": "orch",
+        "key": "C major",
+        "date": "1774",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "196",
+        "K6": "196",
+        "title": "La finta giardiniera",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1775",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "220",
+        "K6": "196b",
+        "title": "Missa brevis (\"Mass No.9\" or \"Spatzen\")",
+        "force": "vv ch orch",
+        "key": "C major",
+        "date": "1775–76",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "292",
+        "K6": "196c",
+        "title": "Sonata",
+        "force": "bn vc",
+        "key": "B♭ major",
+        "date": "1775",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "222",
+        "K6": "205a",
+        "title": "Misericordias Domini",
+        "force": "ch orch",
+        "key": "D minor",
+        "date": "1775",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "284",
+        "K6": "205b",
+        "title": "Piano Sonata No.6 (\"Durnitz\")",
+        "force": "pf",
+        "key": "D major",
+        "date": "1775",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "207",
+        "K6": "207",
+        "title": "Violin Concerto No.1",
+        "force": "vn orch",
+        "key": "B♭ major",
+        "date": "1773",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "121",
+        "K6": "207a",
+        "title": "Allegro (\"Symphony No.51\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1775",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "208",
+        "K6": "208",
+        "title": "Il ré pastore",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1775",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "209",
+        "K6": "209",
+        "title": "Si mostra la sorte",
+        "force": "v orch",
+        "key": "D major",
+        "date": "1775",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "210",
+        "K6": "210",
+        "title": "Con ossequio, con rispetto",
+        "force": "v orch",
+        "key": "C major",
+        "date": "1775",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "152",
+        "K6": "210a",
+        "title": "Ridente la calma",
+        "force": "v pf",
+        "key": "F major",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (by Josef Mysliveček)"
+    },
+    {
+        "K": "211",
+        "K6": "211",
+        "title": "Violin Concerto No.2",
+        "force": "vn orch",
+        "key": "D major",
+        "date": "1775",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "212",
+        "K6": "212",
+        "title": "Church Sonata (\"No.6\")",
+        "force": "2vn org bc",
+        "key": "B♭ major",
+        "date": "1775",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "213",
+        "K6": "213",
+        "title": "Divertimento (\"No.8\")",
+        "force": "2ob 2bn 2hn",
+        "key": "F major",
+        "date": "1775",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "204",
+        "K6": "213a",
+        "title": "Serenade (\"No.5\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1775",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "215",
+        "K6": "213b",
+        "title": "March",
+        "force": "orch",
+        "key": "D major",
+        "date": "1775",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "102",
+        "K6": "213c",
+        "title": "Symphony No.52",
+        "force": "orch",
+        "key": "C major",
+        "date": "1775–76",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "214",
+        "K6": "214",
+        "title": "March",
+        "force": "orch",
+        "key": "C major",
+        "date": "1775",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "216",
+        "K6": "216",
+        "title": "Violin Concerto No.3 (\"Strassburg\")",
+        "force": "vn orch",
+        "key": "G major",
+        "date": "1775",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "217",
+        "K6": "217",
+        "title": "Voi avete un cor fedele",
+        "force": "v orch",
+        "key": "G major",
+        "date": "1775",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "218",
+        "K6": "218",
+        "title": "Violin Concerto No.4",
+        "force": "vn orch",
+        "key": "D major",
+        "date": "1775",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "219",
+        "K6": "219",
+        "title": "Violin Concerto No.5 (\"Turkish\")",
+        "force": "vn orch",
+        "key": "A major",
+        "date": "1775",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "238",
+        "K6": "238",
+        "title": "Piano Concerto No.6",
+        "force": "pf orch",
+        "key": "B♭ major",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "239",
+        "K6": "239",
+        "title": "Serenade (\"No.6\" or \"Serenata notturna\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "240",
+        "K6": "240",
+        "title": "Divertimento (\"No.9\")",
+        "force": "2ob 2bn 2hn",
+        "key": "B♭ major",
+        "date": "1776",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "252",
+        "K6": "240a",
+        "title": "Divertimento (\"No.12\")",
+        "force": "2ob 2bn 2hn",
+        "key": "E♭ major",
+        "date": "1776",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "188",
+        "K6": "240b",
+        "title": "Divertimento (\"No.6\")",
+        "force": "2fl 5tpt timp",
+        "key": "C major",
+        "date": "1773",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "241",
+        "K6": "241",
+        "title": "Church Sonata (\"No.7\" or \"No.9\")",
+        "force": "2vn org bc",
+        "key": "G major",
+        "date": "1776",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "224",
+        "K6": "241a",
+        "title": "Church Sonata (\"No.15\" or \"No.7\")",
+        "force": "2vn org bc",
+        "key": "F major",
+        "date": "1780",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "225",
+        "K6": "241b",
+        "title": "Church Sonata (\"No.16\" or \"No.8\")",
+        "force": "2vn org bc",
+        "key": "A major",
+        "date": "1780",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "242",
+        "K6": "242",
+        "title": "Piano Concerto No.7 (\"Lodron\")",
+        "force": "3pf orch",
+        "key": "F major",
+        "date": "1779?",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "243",
+        "K6": "243",
+        "title": "Litaniae de venerabili altaris sacramento",
+        "force": "vv ch orch",
+        "key": "E♭ major",
+        "date": "1776",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "244",
+        "K6": "244",
+        "title": "Church Sonata (\"No.8\")",
+        "force": "2vn org bc",
+        "key": "F major",
+        "date": "1776",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "245",
+        "K6": "245",
+        "title": "Church Sonata (\"No.9\" or \"No.11\")",
+        "force": "2vn org bc",
+        "key": "D major",
+        "date": "1776",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "246",
+        "K6": "246",
+        "title": "Piano Concerto No.8 (\"Lutzow\")",
+        "force": "pf orch",
+        "key": "C major",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "262",
+        "K6": "246a",
+        "title": "Mass (\"No.13\" or \"Missa longa\")",
+        "force": "vv ch orch",
+        "key": "C major",
+        "date": "1776",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "288",
+        "K6": "246c",
+        "title": "Divertimento",
+        "force": "orch",
+        "key": "F major",
+        "date": "—",
+        "genre": "Orchestral",
+        "notes": "incomplete"
+    },
+    {
+        "K": "247",
+        "K6": "247",
+        "title": "Divertimento (\"No.10\" or \"Lodronische Nachtmusik\")",
+        "force": "orch",
+        "key": "F major",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "248",
+        "K6": "248",
+        "title": "March",
+        "force": "orch",
+        "key": "F major",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "260",
+        "K6": "248a",
+        "title": "Venite populi",
+        "force": "2ch orch",
+        "key": "D major",
+        "date": "1776",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "250",
+        "K6": "248b",
+        "title": "Serenade (\"No.7\" or \"Haffner\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "249",
+        "K6": "249",
+        "title": "March (\"Haffner\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "101",
+        "K6": "250a",
+        "title": "Country Dances (4) (\"Serenade\")",
+        "force": "orch",
+        "key": "",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "251",
+        "K6": "251",
+        "title": "Divertimento (\"No.11\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "253",
+        "K6": "253",
+        "title": "Divertimento (\"No.13\")",
+        "force": "2ob 2bn 2hn",
+        "key": "F major",
+        "date": "1776",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "254",
+        "K6": "254",
+        "title": "Divertimento (\"Piano Trio No.1\")",
+        "force": "vn vc pf",
+        "key": "B♭ major",
+        "date": "1776",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "255",
+        "K6": "255",
+        "title": "Ombra felice (\"Io ti lascio\")",
+        "force": "v orch",
+        "key": "F major",
+        "date": "1776",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "256",
+        "K6": "256",
+        "title": "Clarice cara mia sposa",
+        "force": "v orch",
+        "key": "D major",
+        "date": "1776",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "257",
+        "K6": "257",
+        "title": "Mass (\"No.10\" or \"Credo\")",
+        "force": "vv ch orch",
+        "key": "C major",
+        "date": "1776–77?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "258",
+        "K6": "258",
+        "title": "Missa brevis (\"Mass No.11\" or \"Spaur\")",
+        "force": "vv ch orch",
+        "key": "C major",
+        "date": "1775–76",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "259",
+        "K6": "259",
+        "title": "Missa brevis (\"Mass No.12\" or (\"Organ Solo\")",
+        "force": "vv ch orch",
+        "key": "C major",
+        "date": "1775–76",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "261",
+        "K6": "261",
+        "title": "Adagio",
+        "force": "vn orch",
+        "key": "E major",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "269",
+        "K6": "261a",
+        "title": "Rondo",
+        "force": "vn orch",
+        "key": "B♭ major",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "263",
+        "K6": "263",
+        "title": "Church Sonata (\"No.10\" or \"No.12\")",
+        "force": "2tpt 2vn org bc",
+        "key": "C major",
+        "date": "1776",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "286",
+        "K6": "269a",
+        "title": "Notturno",
+        "force": "4orch",
+        "key": "D major",
+        "date": "1776",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "269b",
+        "title": "Country Dances (4)",
+        "force": "orch",
+        "key": "",
+        "date": "1777",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "270",
+        "K6": "270",
+        "title": "Divertimento (\"No.14\")",
+        "force": "2ob 2bn 2hn",
+        "key": "B♭ major",
+        "date": "1777",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "271",
+        "K6": "271",
+        "title": "Piano Concerto No.9 (\"Jeunehomme\" or \"Jenamy\")",
+        "force": "pf orch",
+        "key": "E♭ major",
+        "date": "1777",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "267",
+        "K6": "271c",
+        "title": "Country Dances (4)",
+        "force": "orch",
+        "key": "",
+        "date": "1777",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "274",
+        "K6": "271d",
+        "title": "Church Sonata (\"No.11\" or \"No.13\")",
+        "force": "2vn org bc",
+        "key": "G major",
+        "date": "1777",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "278",
+        "K6": "271e",
+        "title": "Church Sonata (\"No.12\" or \"No.14\")",
+        "force": "orch",
+        "key": "C major",
+        "date": "1777",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "266",
+        "K6": "271f",
+        "title": "Trio",
+        "force": "2vn vc",
+        "key": "B♭ major",
+        "date": "1777",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "289",
+        "K6": "271g",
+        "title": "Divertimento (\"No.16\")",
+        "force": "2ob 2bn 2hn",
+        "key": "E♭ major",
+        "date": "1777",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "287",
+        "K6": "271h",
+        "title": "Divertimento",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "1777",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "271i",
+        "title": "Violin Concerto",
+        "force": "vn orch",
+        "key": "D major",
+        "date": "1777",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "314",
+        "K6": "271k",
+        "title": "Oboe Concerto",
+        "force": "ob orch",
+        "key": "C major",
+        "date": "1775–77?",
+        "genre": "Orchestral",
+        "notes": "revised as K.314/285d"
+    },
+    {
+        "K": "272",
+        "K6": "272",
+        "title": "Ah, lo previdi",
+        "force": "v orch",
+        "key": "C minor",
+        "date": "1777",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "277",
+        "K6": "272a",
+        "title": "Alma Dei creatoris",
+        "force": "ch orch",
+        "key": "F major",
+        "date": "1777",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "275",
+        "K6": "272b",
+        "title": "Missa brevis (\"Mass No.14\")",
+        "force": "vv ch orch",
+        "key": "B♭ major",
+        "date": "1772 or 1777",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "273",
+        "K6": "273",
+        "title": "Sancta Maria, mater Dei",
+        "force": "vv ch orch",
+        "key": "F major",
+        "date": "1777",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "395 / 300g",
+        "K6": "284a",
+        "title": "Prelude in C major",
+        "force": "pf",
+        "key": "C major",
+        "date": "1777",
+        "genre": "Keyboard",
+        "notes": "formerly known as \"Capriccio\" K 395 / K 300g"
+    },
+    {
+        "K": "309",
+        "K6": "284b",
+        "title": "Piano Sonata No.7",
+        "force": "pf",
+        "key": "C major",
+        "date": "1777",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "311",
+        "K6": "284c",
+        "title": "Piano Sonata No.9",
+        "force": "pf",
+        "key": "D major",
+        "date": "1777",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "307",
+        "K6": "284d",
+        "title": "Oiseaux, si tous les ans",
+        "force": "v orch",
+        "key": "C major",
+        "date": "1777",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "285",
+        "K6": "285",
+        "title": "Flute Quartet (\"No.1\")",
+        "force": "fl vn va vc",
+        "key": "D major",
+        "date": "1777",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "285a",
+        "title": "Flute Quartet (\"No.2\")",
+        "force": "fl vn va vc",
+        "key": "G major",
+        "date": "1778",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.171",
+        "K6": "285b",
+        "title": "Flute Quartet (\"No.3\")",
+        "force": "fl vn va vc",
+        "key": "C major",
+        "date": "1778",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "313",
+        "K6": "285c",
+        "title": "Flute Concerto (\"No.1\")",
+        "force": "fl orch",
+        "key": "G major",
+        "date": "1778",
+        "genre": "Orchestral",
+        "notes": "based on K.314/271k"
+    },
+    {
+        "K": "314",
+        "K6": "285d",
+        "title": "Flute Concerto (\"No.2\")",
+        "force": "fl orch",
+        "key": "D major",
+        "date": "1777",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "315",
+        "K6": "285e",
+        "title": "Andante",
+        "force": "fl orch",
+        "key": "C major",
+        "date": "1778",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "301",
+        "K6": "293a",
+        "title": "Violin Sonata (\"No.18\")",
+        "force": "vn pf",
+        "key": "G major",
+        "date": "1778",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "302",
+        "K6": "293b",
+        "title": "Violin Sonata (\"No.19\")",
+        "force": "vn pf",
+        "key": "E♭ major",
+        "date": "1778",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "303",
+        "K6": "293c",
+        "title": "Violin Sonata (\"No.20\")",
+        "force": "vn pf",
+        "key": "C major",
+        "date": "1778",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "305",
+        "K6": "293d",
+        "title": "Violin Sonata (\"No.22\")",
+        "force": "vn pf",
+        "key": "A major",
+        "date": "1778",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "294",
+        "K6": "294",
+        "title": "Alcandro, lo confesso",
+        "force": "v orch",
+        "key": "",
+        "date": "1778",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "295",
+        "K6": "295",
+        "title": "Se al labbro mio non credi (\"Il cor dolente\")",
+        "force": "v orch",
+        "key": "B♭ major",
+        "date": "1778",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "295a",
+        "title": "Basta, vincesti",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1778",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "308",
+        "K6": "295b",
+        "title": "Dans un bois solitaire",
+        "force": "v orch",
+        "key": "A♭ major",
+        "date": "1778",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "296",
+        "K6": "296",
+        "title": "Violin Sonata (\"No.17\")",
+        "force": "vn pf",
+        "key": "C major",
+        "date": "1778",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "322",
+        "K6": "296a",
+        "title": "Kyrie",
+        "force": "ch orch",
+        "key": "E♭ major",
+        "date": "1778",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "Anh.9",
+        "K6": "297B",
+        "title": "Sinfonia concertante",
+        "force": "ob cl bn hn orch",
+        "key": "E♭ major",
+        "date": "1778",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "299",
+        "K6": "297c",
+        "title": "Flute and Harp Concerto",
+        "force": "fl hp orch",
+        "key": "C major",
+        "date": "1778",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "298",
+        "K6": "298",
+        "title": "Flute Quartet (\"No.4\")",
+        "force": "fl vn va vc",
+        "key": "A major",
+        "date": "1786?",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "354",
+        "K6": "299a",
+        "title": "Variations (12) on \"Je suis Lindor\"",
+        "force": "pf",
+        "key": "E♭ major",
+        "date": "1778",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "Anh.10",
+        "K6": "299b",
+        "title": "Les petits riens",
+        "force": "orch",
+        "key": "",
+        "date": "1778",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "Anh.103",
+        "K6": "299d",
+        "title": "La chasse",
+        "force": "orch",
+        "key": "A major",
+        "date": "1778",
+        "genre": "Orchestral",
+        "notes": "incomplete"
+    },
+    {
+        "K": "300",
+        "K6": "300",
+        "title": "Gavotte",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "1778",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "297",
+        "K6": "300a",
+        "title": "Symphony No.31 (\"Paris\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1778",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "316",
+        "K6": "300b",
+        "title": "Popoli di Tessaglia (\"Io non chiedo\")",
+        "force": "v orch",
+        "key": "C major",
+        "date": "1779",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "304",
+        "K6": "300c",
+        "title": "Violin Sonata (\"No.21\")",
+        "force": "vn pf",
+        "key": "E minor",
+        "date": "1778",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "310",
+        "K6": "300d",
+        "title": "Piano Sonata No.8",
+        "force": "pf",
+        "key": "A minor",
+        "date": "1778",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "265",
+        "K6": "300e",
+        "title": "Variations (12) on \"Ah, vous dirai-je maman\"",
+        "force": "pf",
+        "key": "C major",
+        "date": "1781–82?",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "353",
+        "K6": "300f",
+        "title": "Variations (12) on \"La belle françoise\"",
+        "force": "pf",
+        "key": "E♭ major",
+        "date": "1781–82?",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "330",
+        "K6": "300h",
+        "title": "Piano Sonata No.10",
+        "force": "pf",
+        "key": "C major",
+        "date": "1783",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "331",
+        "K6": "300i",
+        "title": "Piano Sonata No.11 (\"Alla Turca\")",
+        "force": "pf",
+        "key": "A major",
+        "date": "1783",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "332",
+        "K6": "300k",
+        "title": "Piano Sonata No.12",
+        "force": "pf",
+        "key": "F major",
+        "date": "1783",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "306",
+        "K6": "300l",
+        "title": "Violin Sonata (\"No.23\")",
+        "force": "vn pf",
+        "key": "D major",
+        "date": "1778",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "333",
+        "K6": "315c",
+        "title": "Piano Sonata No.13 (\"Linz\")",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1783",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "264",
+        "K6": "315d",
+        "title": "Variations (9) on \"Lison dormait\"",
+        "force": "pf",
+        "key": "C major",
+        "date": "1778",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "Anh.56  315f",
+        "K6": "Concerto for Violin and Piano",
+        "title": "vn pf orch",
+        "force": "D major",
+        "key": "1778",
+        "date": "Orchestral",
+        "genre": "incomplete",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "315g",
+        "title": "Minuets (8)",
+        "force": "pf",
+        "key": "",
+        "date": "1773",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "365",
+        "K6": "316a",
+        "title": "Piano Concerto No.10",
+        "force": "2pf orch",
+        "key": "E♭ major",
+        "date": "1779–81?",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "317",
+        "K6": "317",
+        "title": "Mass (\"No.15\" or \"Coronation\")",
+        "force": "vv ch orch",
+        "key": "C major",
+        "date": "1779",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "329",
+        "K6": "317a",
+        "title": "Church Sonata (\"No.13\" or \"No.16\")",
+        "force": "orch",
+        "key": "C major",
+        "date": "1779",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "146",
+        "K6": "317b",
+        "title": "Kommet her, ihr frechen Sünder",
+        "force": "v orch",
+        "key": "B♭ major",
+        "date": "1779",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "328",
+        "K6": "317c",
+        "title": "Church Sonata (\"No.14\" or \"No.15\")",
+        "force": "2vn org bc",
+        "key": "C major",
+        "date": "1779",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "378",
+        "K6": "317d",
+        "title": "Violin Sonata (\"No.26\")",
+        "force": "vn pf",
+        "key": "B♭ major",
+        "date": "1779",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "318",
+        "K6": "318",
+        "title": "Symphony No.32",
+        "force": "orch",
+        "key": "G major",
+        "date": "1779, 1782–83",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "319",
+        "K6": "319",
+        "title": "Symphony No.33",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "1779, 1785",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "320",
+        "K6": "320",
+        "title": "Serenade (\"No.9\" or \"Posthorn\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1779",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "335",
+        "K6": "320a",
+        "title": "Marches (2)",
+        "force": "orch",
+        "key": "D major",
+        "date": "1779",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "320B",
+        "title": "Divertimento",
+        "force": "orch",
+        "key": "D major",
+        "date": "1772–73",
+        "genre": "Orchestral",
+        "notes": "incomplete"
+    },
+    {
+        "K": "334",
+        "K6": "320b",
+        "title": "Divertimento",
+        "force": "orch",
+        "key": "D major",
+        "date": "1779",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "445",
+        "K6": "320c",
+        "title": "March",
+        "force": "orch",
+        "key": "D major",
+        "date": "1780",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "364",
+        "K6": "320d",
+        "title": "Sinfonia concertante",
+        "force": "vn va orch",
+        "key": "E♭ major",
+        "date": "1779",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "Anh.104",
+        "K6": "320e",
+        "title": "Sinfonia concertante",
+        "force": "vn va vc orch",
+        "key": "A major",
+        "date": "1779",
+        "genre": "Orchestral",
+        "notes": "incomplete"
+    },
+    {
+        "K": "321",
+        "K6": "321",
+        "title": "Vesperae de Dominica",
+        "force": "vv ch orch",
+        "key": "C major",
+        "date": "1779",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "276",
+        "K6": "321b",
+        "title": "Regina coeli",
+        "force": "v ch orch",
+        "key": "C major",
+        "date": "1779",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "Anh.15",
+        "K6": "323",
+        "title": "Kyrie",
+        "force": "ch orch",
+        "key": "C major",
+        "date": "1779",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "345",
+        "K6": "336a",
+        "title": "Thamos, König in Ägypten",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1779",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "344",
+        "K6": "336b",
+        "title": "Zaide",
+        "force": "vv orch",
+        "key": "",
+        "date": "1780",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "343",
+        "K6": "336c",
+        "title": "Kirchenlieder (2)",
+        "force": "v pf",
+        "key": "",
+        "date": "1780",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "336",
+        "K6": "336d",
+        "title": "Church Sonata (\"No.17\")",
+        "force": "2vn org bc",
+        "key": "C major",
+        "date": "1780",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "337",
+        "K6": "337",
+        "title": "Missa solemnis (\"Mass No.16\")",
+        "force": "vv ch orch",
+        "key": "C major",
+        "date": "1780",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "338",
+        "K6": "338",
+        "title": "Symphony No.34",
+        "force": "orch",
+        "key": "C major",
+        "date": "1780",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "339",
+        "K6": "339",
+        "title": "Vesperae solennes de confessore",
+        "force": "vv ch orch",
+        "key": "C major",
+        "date": "1780",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "392",
+        "K6": "340a",
+        "title": "Verdankt sei es dem Glanz",
+        "force": "v pf",
+        "key": "F major",
+        "date": "1780",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "391",
+        "K6": "340b",
+        "title": "An die Einsamkeit (\"Sei du mein trost\")",
+        "force": "v pf",
+        "key": "B♭ major",
+        "date": "1780",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "390",
+        "K6": "340c",
+        "title": "An die Hoffnung (\"Ich würd auf meinem Pfad\")",
+        "force": "v pf",
+        "key": "D minor",
+        "date": "1780",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "363",
+        "K6": "363",
+        "title": "Minuets (3)",
+        "force": "orch",
+        "key": "",
+        "date": "1783?",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "366",
+        "K6": "366",
+        "title": "Idomeneo",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1781",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "367",
+        "K6": "367",
+        "title": "Idomeneo (ballet music)",
+        "force": "orch",
+        "key": "",
+        "date": "1781",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "349",
+        "K6": "367a",
+        "title": "Die Zufriedenheit",
+        "force": "v mand/pf",
+        "key": "G major",
+        "date": "1780",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "351",
+        "K6": "367b",
+        "title": "Komm, liebe Zither komm",
+        "force": "v mand",
+        "key": "C major",
+        "date": "1781",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "368",
+        "K6": "368",
+        "title": "Ma che vi fece",
+        "force": "v orch",
+        "key": "F major",
+        "date": "1781",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "341",
+        "K6": "368a",
+        "title": "Kyrie",
+        "force": "ch orch",
+        "key": "D minor",
+        "date": "1781",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "370",
+        "K6": "368b",
+        "title": "Oboe Quartet",
+        "force": "ob vn va vc",
+        "key": "F major",
+        "date": "1781",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "369",
+        "K6": "369",
+        "title": "Misera, dove son! (\"Ah! non son io\")",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1781",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "361",
+        "K6": "370a",
+        "title": "Serenade (\"No.10\" or \"Gran partita\")",
+        "force": "2ob 2cl 2bsthn 2bn cbn 4hn",
+        "key": "B♭ major",
+        "date": "1781",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "370b",
+        "title": "Horn Concerto",
+        "force": "hn orch",
+        "key": "E♭ major",
+        "date": "1781",
+        "genre": "Orchestral",
+        "notes": "incomplete"
+    },
+    {
+        "K": "371",
+        "K6": "371",
+        "title": "Rondo",
+        "force": "hn orch",
+        "key": "E♭ major",
+        "date": "1781",
+        "genre": "Orchestral",
+        "notes": "incomplete"
+    },
+    {
+        "K": "372",
+        "K6": "372",
+        "title": "Allegro",
+        "force": "vn pf",
+        "key": "B♭ major",
+        "date": "1781",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "400",
+        "K6": "372a",
+        "title": "Allegro",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1782",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "373",
+        "K6": "373",
+        "title": "Rondo",
+        "force": "vn orch",
+        "key": "C major",
+        "date": "1781",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "379",
+        "K6": "373a",
+        "title": "Violin Sonata (\"No.27\")",
+        "force": "vn pf",
+        "key": "G major",
+        "date": "1781",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "374",
+        "K6": "374",
+        "title": "A questo seno deh vieni (\"Or che il cielo\")",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1781",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "359",
+        "K6": "374a",
+        "title": "Variations (12) on \"La bergère Célimene\"",
+        "force": "vn pf",
+        "key": "G major",
+        "date": "1781",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "360",
+        "K6": "374b",
+        "title": "Variations (6) on \"Hélas, j'ai perdu mon amant\"",
+        "force": "vn pf",
+        "key": "G major",
+        "date": "1781",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "352",
+        "K6": "374c",
+        "title": "Variations (8) on \"Dieu d'amour\"",
+        "force": "pf",
+        "key": "F major",
+        "date": "1781",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "376",
+        "K6": "374d",
+        "title": "Violin Sonata (\"No.24\")",
+        "force": "vn pf",
+        "key": "F major",
+        "date": "1781",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "377",
+        "K6": "374e",
+        "title": "Violin Sonata (\"No.25\")",
+        "force": "vn pf",
+        "key": "F major",
+        "date": "1781",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "380",
+        "K6": "374f",
+        "title": "Violin Sonata (\"No.28\")",
+        "force": "vn pf",
+        "key": "E♭ major",
+        "date": "1781",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.46",
+        "K6": "374g",
+        "title": "Andantinos",
+        "force": "vc pf",
+        "key": "B♭ major",
+        "date": "1782–83",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "375",
+        "K6": "375",
+        "title": "Serenade (\"No.11\")",
+        "force": "orch",
+        "key": "E♭ major",
+        "date": "1781, 1782",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "448",
+        "K6": "375a",
+        "title": "Piano Sonata",
+        "force": "2pf",
+        "key": "D major",
+        "date": "1781",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "Anh.42",
+        "K6": "375b",
+        "title": "Sonata Movement for Two Pianos",
+        "force": "2pf",
+        "key": "B♭ major",
+        "date": "1782",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "Anh.43",
+        "K6": "375c",
+        "title": "Piano Sonata",
+        "force": "2pf",
+        "key": "D major",
+        "date": "1782",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "Anh.45",
+        "K6": "375d",
+        "title": "Fugue",
+        "force": "2pf",
+        "key": "G major",
+        "date": "1785–86",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "401",
+        "K6": "375e",
+        "title": "Fugue",
+        "force": "pf4h",
+        "key": "G minor",
+        "date": "1773?",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "153",
+        "K6": "375f",
+        "title": "Fugue",
+        "force": "pf",
+        "key": "E♭ major",
+        "date": "1782",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "Anh.41",
+        "K6": "375g",
+        "title": "Fugue",
+        "force": "pf",
+        "key": "G major",
+        "date": "1777",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "—",
+        "K6": "375h",
+        "title": "Fugue",
+        "force": "pf",
+        "key": "F major",
+        "date": "1782/83",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "382",
+        "K6": "382",
+        "title": "Rondo",
+        "force": "pf orch",
+        "key": "D major",
+        "date": "1782",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "229",
+        "K6": "382a",
+        "title": "Canon",
+        "force": "3vv",
+        "key": "C minor",
+        "date": "1782",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "230",
+        "K6": "382b",
+        "title": "Canon",
+        "force": "2vv",
+        "key": "C minor",
+        "date": "1782",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "231",
+        "K6": "382c",
+        "title": "Canon (\"Leck mich im Arsch\")",
+        "force": "6vv",
+        "key": "B♭ major",
+        "date": "1782",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "233",
+        "K6": "382d",
+        "title": "Canon (\"Leck mir den Arsch fein recht schön sauber\")",
+        "force": "3vv",
+        "key": "B♭ major",
+        "date": "1782",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "234",
+        "K6": "382e",
+        "title": "Canon (\"Bei der Hitz im Sommer ess ich\")",
+        "force": "3vv",
+        "key": "G major",
+        "date": "1782",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "347",
+        "K6": "382f",
+        "title": "Canon",
+        "force": "6vv",
+        "key": "D major",
+        "date": "1784–85",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "348",
+        "K6": "382g",
+        "title": "Canon (\"V'amo di core teneramente\")",
+        "force": "12vv",
+        "key": "G major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "119",
+        "K6": "382h",
+        "title": "Der Liebe himmlisches Gefühl",
+        "force": "v orch",
+        "key": "A major",
+        "date": "1784?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "383",
+        "K6": "383",
+        "title": "Nehmt meinen Dank, ihr holden Gönner!",
+        "force": "v orch",
+        "key": "",
+        "date": "1782",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "394",
+        "K6": "383a",
+        "title": "Prelude and Fugue",
+        "force": "pf",
+        "key": "C major",
+        "date": "1782",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "Anh.33 & 40 383b",
+        "K6": "Fugue",
+        "title": "pf",
+        "force": "F major",
+        "key": "1787–89",
+        "date": "Keyboard",
+        "genre": "incomplete",
+        "notes": ""
+    },
+    {
+        "K": "Anh.32",
+        "K6": "383C",
+        "title": "Fantasia",
+        "force": "pf",
+        "key": "F minor",
+        "date": "1790",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "Anh.38",
+        "K6": "383c",
+        "title": "Theme and Variations",
+        "force": "org",
+        "key": "C major",
+        "date": "1783?",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "408/1",
+        "K6": "383e",
+        "title": "March",
+        "force": "orch",
+        "key": "C major",
+        "date": "1782",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "408/3",
+        "K6": "383F",
+        "title": "March",
+        "force": "orch",
+        "key": "C major",
+        "date": "1782",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "409",
+        "K6": "383f",
+        "title": "Minuet",
+        "force": "orch",
+        "key": "C major",
+        "date": "1782",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "440",
+        "K6": "383h",
+        "title": "In te spero, o sposo amato",
+        "force": "v orch",
+        "key": "C major",
+        "date": "1782",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "384",
+        "K6": "384",
+        "title": "Die Entführung aus dem Serail",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1782",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "389",
+        "K6": "384A",
+        "title": "Welch ängstliches Beben",
+        "force": "2vv orch",
+        "key": "E♭ major",
+        "date": "1781–82",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "388",
+        "K6": "384a",
+        "title": "Serenade (\"No.12\" or \"Nacht musique\")",
+        "force": "2ob 2cl 2bn 2hn",
+        "key": "C minor",
+        "date": "1782",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "384B",
+        "title": "Andante",
+        "force": "2ob 2cl 2bn 2hn",
+        "key": "B♭ major",
+        "date": "1782?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "—",
+        "K6": "384b",
+        "title": "March",
+        "force": "2ob 2cl 2bn 2hn",
+        "key": "B♭ major",
+        "date": "1782?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "385",
+        "K6": "385",
+        "title": "Symphony No.35 (\"Haffner\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1782",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "408/2",
+        "K6": "385a",
+        "title": "March",
+        "force": "orch",
+        "key": "D major",
+        "date": "1782",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "393",
+        "K6": "385b",
+        "title": "Solfeggios (5)",
+        "force": "v",
+        "key": "",
+        "date": "1782",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "403",
+        "K6": "385c",
+        "title": "Violin Sonata (\"No.30\")",
+        "force": "vn pf",
+        "key": "C major",
+        "date": "1784",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "404",
+        "K6": "385d",
+        "title": "Violin Sonata (\"No.31\")",
+        "force": "vn pf",
+        "key": "C major",
+        "date": "1785–86?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "402",
+        "K6": "385e",
+        "title": "Violin Sonata (\"No.29\")",
+        "force": "vn pf",
+        "key": "A major",
+        "date": "1781–82?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "396",
+        "K6": "385f",
+        "title": "Fantasia",
+        "force": "vn pf",
+        "key": "C minor",
+        "date": "1782",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "397",
+        "K6": "385g",
+        "title": "Fantasia (\"No.3\")",
+        "force": "pf",
+        "key": "D minor",
+        "date": "1782",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "Anh.34",
+        "K6": "385h",
+        "title": "Adagio",
+        "force": "pf",
+        "key": "D minor",
+        "date": "1786?",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "399",
+        "K6": "385i",
+        "title": "Suite",
+        "force": "pf",
+        "key": "C major",
+        "date": "1782",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "154",
+        "K6": "385k",
+        "title": "Fugue",
+        "force": "pf",
+        "key": "G minor",
+        "date": "1782",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "414",
+        "K6": "385p",
+        "title": "Piano Concerto No.12",
+        "force": "pf orch",
+        "key": "A major",
+        "date": "1782",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "386",
+        "K6": "386",
+        "title": "Rondo",
+        "force": "pf orch",
+        "key": "A major",
+        "date": "1782",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "412/514",
+        "K6": "386b",
+        "title": "Horn Concerto",
+        "force": "hn orch",
+        "key": "D major",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "407",
+        "K6": "386c",
+        "title": "Horn Quintet",
+        "force": "hn vn 2va vc",
+        "key": "E♭ major",
+        "date": "1782",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.25",
+        "K6": "386d",
+        "title": "Denis' Bardengesang auf Gibraltar (\"O Calpe! dir donnerts am Fuße\")",
+        "force": "v pf",
+        "key": "D major",
+        "date": "1782",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "387",
+        "K6": "387",
+        "title": "String Quartet No.14",
+        "force": "2vn va vc",
+        "key": "G major",
+        "date": "1782",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "413",
+        "K6": "387a",
+        "title": "Piano Concerto No.11",
+        "force": "pf orch",
+        "key": "F major",
+        "date": "1783",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "415",
+        "K6": "387b",
+        "title": "Piano Concerto No.13",
+        "force": "pf orch",
+        "key": "C major",
+        "date": "1783",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "404a",
+        "title": "Fugues for 3 Voices (6)",
+        "force": "vn va bc",
+        "key": "",
+        "date": "1782",
+        "genre": "Chamber",
+        "notes": "based on works by Johann Sebastian Bach and Wilhelm Friedemann Bach"
+    },
+    {
+        "K": "443",
+        "K6": "404b",
+        "title": "Fugue",
+        "force": "vn va vc",
+        "key": "G major",
+        "date": "1782",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "405",
+        "K6": "405",
+        "title": "Fugues for 4 Voices (5)",
+        "force": "2vn va vc",
+        "key": "",
+        "date": "1782",
+        "genre": "Chamber",
+        "notes": "based on works by Johann Sebastian Bach"
+    },
+    {
+        "K": "416",
+        "K6": "416",
+        "title": "Mia speranza adorata (\"Ah, non sai qual pena\")",
+        "force": "v orch",
+        "key": "B♭ major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "435",
+        "K6": "416b",
+        "title": "Müsst' ich auch durch tausend Drachen",
+        "force": "v orch",
+        "key": "D major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "433",
+        "K6": "416c",
+        "title": "Warnung (\"Männer suchen stets zu naschen\")",
+        "force": "v orch",
+        "key": "F major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "446",
+        "K6": "416d",
+        "title": "Musik zu einer Pantomime",
+        "force": "str",
+        "key": "",
+        "date": "1783",
+        "genre": "Stage",
+        "notes": "incomplete"
+    },
+    {
+        "K": "398",
+        "K6": "416e",
+        "title": "Variations (5) on \"Salve tu Domine\"",
+        "force": "pf",
+        "key": "",
+        "date": "1783",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "293",
+        "K6": "416f",
+        "title": "Oboe Concerto",
+        "force": "ob orch",
+        "key": "F major",
+        "date": "1783",
+        "genre": "Orchestral",
+        "notes": "incomplete"
+    },
+    {
+        "K": "417",
+        "K6": "417",
+        "title": "Horn Concerto",
+        "force": "hn orch",
+        "key": "E♭ major",
+        "date": "1783",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "427",
+        "K6": "417a",
+        "title": "Mass (\"No.17\" or \"Great\")",
+        "force": "vv ch orch",
+        "key": "C minor",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "421",
+        "K6": "417b",
+        "title": "String Quartet No.15",
+        "force": "2vn va vc",
+        "key": "D minor",
+        "date": "1783",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "178",
+        "K6": "417e",
+        "title": "Ah, spiegarti, oh Dio",
+        "force": "v pf",
+        "key": "A major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "418",
+        "K6": "418",
+        "title": "Vorrei spiegarvi, oh Dio",
+        "force": "v orch",
+        "key": "A major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "419",
+        "K6": "419",
+        "title": "No, no, che non sei capace",
+        "force": "v orch",
+        "key": "C major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "420",
+        "K6": "420",
+        "title": "Per pietà, non ricercate",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "432",
+        "K6": "421a",
+        "title": "Così dunque tradisci (\"Aspri rimorsi atroci\")",
+        "force": "v orch",
+        "key": "F minor",
+        "date": "1783?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "428",
+        "K6": "421b",
+        "title": "String Quartet No.16",
+        "force": "2vn va vc",
+        "key": "E♭ major",
+        "date": "1783",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "422",
+        "K6": "422",
+        "title": "L'oca del Cairo (\"The Goose of Cairo\")",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1784",
+        "genre": "Stage",
+        "notes": "incomplete"
+    },
+    {
+        "K": "423",
+        "K6": "423",
+        "title": "Duo",
+        "force": "vn va",
+        "key": "G major",
+        "date": "1783",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "424",
+        "K6": "424",
+        "title": "Duo",
+        "force": "vn va",
+        "key": "B♭ major",
+        "date": "1783",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "430",
+        "K6": "424a",
+        "title": "Lo sposo deluso",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1784",
+        "genre": "Stage",
+        "notes": "incomplete"
+    },
+    {
+        "K": "425",
+        "K6": "425",
+        "title": "Symphony No.36 (\"Linz\")",
+        "force": "orch",
+        "key": "C major",
+        "date": "1783",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "444",
+        "K6": "425a",
+        "title": "Symphony No.37",
+        "force": "orch",
+        "key": "G major",
+        "date": "1784",
+        "genre": "Orchestral",
+        "notes": "introduction to a symphony by Michael Haydn"
+    },
+    {
+        "K": "431",
+        "K6": "425b",
+        "title": "Misero! o sogno! (\"Aura, che intorno spiri\")",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "426",
+        "K6": "426",
+        "title": "Fugue",
+        "force": "2pf",
+        "key": "C minor",
+        "date": "1783",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "Anh.44",
+        "K6": "426a",
+        "title": "Allegro",
+        "force": "2pf",
+        "key": "C minor",
+        "date": "1785–86",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "436",
+        "K6": "436",
+        "title": "Ecco quel fiero istante (\"La partenza\")",
+        "force": "3vv 3bsthn",
+        "key": "F major",
+        "date": "1787?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "437",
+        "K6": "437",
+        "title": "Mi lagnerò tacendo",
+        "force": "3vv 2cl/2bsthn",
+        "key": "G major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "438",
+        "K6": "438",
+        "title": "Se lontan ben mio, tu sei",
+        "force": "3vv 2cl/2bsthn",
+        "key": "E♭ major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "439",
+        "K6": "439",
+        "title": "Due pupille amabili",
+        "force": "3vv 3bsthn",
+        "key": "F major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "346",
+        "K6": "439a",
+        "title": "Luci care, luci belle",
+        "force": "3vv 3bsthn",
+        "key": "F major",
+        "date": "1783",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "Anh.229",
+        "K6": "439b",
+        "title": "Divertimentos (5)",
+        "force": "3bsthn",
+        "key": "B♭ major",
+        "date": "1783",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "441",
+        "K6": "441",
+        "title": "Das Bandel (\"Liebes Mandel, wo is's Bandel?\")",
+        "force": "3vv orch",
+        "key": "G major",
+        "date": "1783?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "442",
+        "K6": "442",
+        "title": "Piano Trio",
+        "force": "vn vc pf",
+        "key": "D major",
+        "date": "1785–87?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "447",
+        "K6": "447",
+        "title": "Horn Concerto",
+        "force": "hn orch",
+        "key": "E♭ major",
+        "date": "1787",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "461",
+        "K6": "448a",
+        "title": "Minuets (6)",
+        "force": "orch",
+        "key": "",
+        "date": "1784",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "462",
+        "K6": "448b",
+        "title": "Country Dances (6)",
+        "force": "orch",
+        "key": "",
+        "date": "1784",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "463",
+        "K6": "448c",
+        "title": "Minuets (2) (Country Dances)",
+        "force": "orch",
+        "key": "",
+        "date": "1784",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "449",
+        "K6": "449",
+        "title": "Piano Concerto No.14",
+        "force": "pf orch",
+        "key": "E♭ major",
+        "date": "1782–84",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "450",
+        "K6": "450",
+        "title": "Piano Concerto No.15",
+        "force": "pf orch",
+        "key": "B♭ major",
+        "date": "1784",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "451",
+        "K6": "451",
+        "title": "Piano Concerto No.16",
+        "force": "pf orch",
+        "key": "D major",
+        "date": "1784",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "452",
+        "K6": "452",
+        "title": "Quintet",
+        "force": "ob cl bn hn pf",
+        "key": "E♭ major",
+        "date": "1784",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.54",
+        "K6": "452a",
+        "title": "Quintet",
+        "force": "ob cl bn hn pf",
+        "key": "E♭ major",
+        "date": "1784",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "453",
+        "K6": "453",
+        "title": "Piano Concerto No.17",
+        "force": "pf orch",
+        "key": "G major",
+        "date": "1784",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "453a",
+        "title": "Kleiner Trauermarsch (\"Little Funeral March\")",
+        "force": "pf",
+        "key": "C minor",
+        "date": "1784",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "454",
+        "K6": "454",
+        "title": "Violin Sonata (\"No.32\")",
+        "force": "vn pf",
+        "key": "B♭ major",
+        "date": "1784",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.163",
+        "K6": "—",
+        "title": "String Trios (3)",
+        "force": "vn va vc",
+        "key": "E♭ major",
+        "date": "—",
+        "genre": "Chamber",
+        "notes": "Arranged from K.454, K.481 and K.533. Not composed by Mozart."
+    },
+    {
+        "K": "460",
+        "K6": "454a",
+        "title": "Variations (8) on \"Come un agnello\"",
+        "force": "pf",
+        "key": "A major",
+        "date": "1784",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "455",
+        "K6": "455",
+        "title": "Variations (10) on \"Unser dummer Pöbel meint\"",
+        "force": "pf",
+        "key": "G major",
+        "date": "1784",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "456",
+        "K6": "456",
+        "title": "Piano Concerto No.18",
+        "force": "pf orch",
+        "key": "B♭ major",
+        "date": "1784",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "457",
+        "K6": "457",
+        "title": "Piano Sonata No.14",
+        "force": "pf",
+        "key": "C minor",
+        "date": "1784",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "458",
+        "K6": "458",
+        "title": "String Quartet No.17 (\"Hunt\")",
+        "force": "2vn va vc",
+        "key": "B♭ major",
+        "date": "1784",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "459",
+        "K6": "459",
+        "title": "Piano Concerto No.19",
+        "force": "pf orch",
+        "key": "F major",
+        "date": "1784",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "464",
+        "K6": "464",
+        "title": "String Quartet No.18",
+        "force": "2vn va vc",
+        "key": "A major",
+        "date": "1785",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.72",
+        "K6": "464a",
+        "title": "String Quartet",
+        "force": "2vn va vc",
+        "key": "A major",
+        "date": "1785",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "465",
+        "K6": "465",
+        "title": "String Quartet (\"Dissonant\")",
+        "force": "2vn va vc",
+        "key": "C major",
+        "date": "1785",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "466",
+        "K6": "466",
+        "title": "Piano Concerto No.20",
+        "force": "pf orch",
+        "key": "D minor",
+        "date": "1785",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "467",
+        "K6": "467",
+        "title": "Piano Concerto No.21",
+        "force": "pf orch",
+        "key": "C major",
+        "date": "1785",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "468",
+        "K6": "468",
+        "title": "Gesellenreise (\"Die ihr einem neuen Grad\")",
+        "force": "v pf",
+        "key": "B♭ major",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "429",
+        "K6": "468a",
+        "title": "Dir, Seele des Weltfalls",
+        "force": "v mch orch",
+        "key": "E♭ major",
+        "date": "1791",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "469",
+        "K6": "469",
+        "title": "Davidde penitente",
+        "force": "3vv ch orch",
+        "key": "C minor",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "470a",
+        "title": "Violin Concerto No.16",
+        "force": "vn orch",
+        "key": "E minor",
+        "date": "1785",
+        "genre": "Orchestral",
+        "notes": "re-orchestration of a work by Giovanni Battista Viotti"
+    },
+    {
+        "K": "471",
+        "K6": "471",
+        "title": "Die Mauererfreude",
+        "force": "ten mch orch",
+        "key": "E♭ major",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "472",
+        "K6": "472",
+        "title": "Der Zauberer",
+        "force": "v pf",
+        "key": "G minor",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "473",
+        "K6": "473",
+        "title": "Die Zufriedenheit",
+        "force": "v pf",
+        "key": "B♭ major",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "474",
+        "K6": "474",
+        "title": "Die betrogene Welt",
+        "force": "v pf",
+        "key": "G major",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "475",
+        "K6": "475",
+        "title": "Fantasia",
+        "force": "pf",
+        "key": "C minor",
+        "date": "1785",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "Anh.26",
+        "K6": "475a",
+        "title": "Einsam bin ich, meine Liebe",
+        "force": "v pf",
+        "key": "D minor",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "476",
+        "K6": "476",
+        "title": "Das Veilchen",
+        "force": "v pf",
+        "key": "G major",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "478",
+        "K6": "478",
+        "title": "Piano Quartet (\"No.1\")",
+        "force": "vn va vc pf",
+        "key": "G minor",
+        "date": "1785",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "479",
+        "K6": "479",
+        "title": "Dite almeno, in che mancai",
+        "force": "4vv orch",
+        "key": "E♭ major",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "477",
+        "K6": "479a",
+        "title": "Maurerische Trauermusik (\"Masonic Funeral Music\")",
+        "force": "orch",
+        "key": "C minor",
+        "date": "1785",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "480",
+        "K6": "480",
+        "title": "Mandina amabile",
+        "force": "3vv orch",
+        "key": "A major",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "434",
+        "K6": "480b",
+        "title": "Del gran regno delle amazoni",
+        "force": "3vv orch",
+        "key": "B♭ major",
+        "date": "1785–86",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "481",
+        "K6": "481",
+        "title": "Violin Sonata (\"No.33\")",
+        "force": "vn pf",
+        "key": "E♭ major",
+        "date": "1785",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "482",
+        "K6": "482",
+        "title": "Piano Concerto No.22",
+        "force": "pf orch",
+        "key": "E♭ major",
+        "date": "1785",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "483",
+        "K6": "483",
+        "title": "Zerfliesset heut', geliebte Brüder",
+        "force": "v mch pf",
+        "key": "B♭ major",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "484",
+        "K6": "484",
+        "title": "Ihr unsre neuen Leiter",
+        "force": "v mch pf",
+        "key": "G major",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "411",
+        "K6": "484a",
+        "title": "Adagio",
+        "force": "2cl 3bsthn",
+        "key": "B♭ major",
+        "date": "1783–84",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.95",
+        "K6": "484b",
+        "title": "Allegro assai",
+        "force": "2cl 3bsthn",
+        "key": "B♭ major",
+        "date": "1786?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "Anh.93",
+        "K6": "484c",
+        "title": "Adagio",
+        "force": "cl 3bsthn",
+        "key": "F major",
+        "date": "1787–89?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "410",
+        "K6": "484d",
+        "title": "Adagio",
+        "force": "2bsthn bn",
+        "key": "F major",
+        "date": "1785?",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "484de",
+        "title": "'Allegro",
+        "force": "?",
+        "key": "C major",
+        "date": "?",
+        "genre": "Chamber",
+        "notes": "only incomplete bsthn part extant"
+    },
+    {
+        "K": "485",
+        "K6": "485",
+        "title": "Rondo (\"No.1\")",
+        "force": "pf",
+        "key": "D major",
+        "date": "1786",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "486",
+        "K6": "486",
+        "title": "Der Schauspieldirektor",
+        "force": "vv orch",
+        "key": "",
+        "date": "1786",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "486a",
+        "K6": "295a",
+        "title": "Basta, vincesti",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1778",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "488",
+        "K6": "488",
+        "title": "Piano Concerto No.23",
+        "force": "pf orch",
+        "key": "A major",
+        "date": "1784–86?",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "489",
+        "K6": "489",
+        "title": "Spiegarti non poss'io",
+        "force": "2vv orch",
+        "key": "B♭ major",
+        "date": "1786",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "490",
+        "K6": "490",
+        "title": "Non più, tutti ascoltai",
+        "force": "v orch",
+        "key": "B♭ major",
+        "date": "1786",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "491",
+        "K6": "491",
+        "title": "Piano Concerto No.24",
+        "force": "pf orch",
+        "key": "C minor",
+        "date": "1786",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "492",
+        "K6": "492",
+        "title": "Le nozze di Figaro (\"The Marriage of Figaro\")",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1786",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "493",
+        "K6": "493",
+        "title": "Piano Quartet (\"No.2\")",
+        "force": "vn va vc pf",
+        "key": "E♭ major",
+        "date": "1786",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "494",
+        "K6": "494",
+        "title": "Rondo (\"No.2\")",
+        "force": "pf",
+        "key": "F major",
+        "date": "1786",
+        "genre": "Keyboard",
+        "notes": "revised in K.533"
+    },
+    {
+        "K": "—",
+        "K6": "494a",
+        "title": "Horn Concerto",
+        "force": "hn orch",
+        "key": "E major",
+        "date": "1786",
+        "genre": "Orchestral",
+        "notes": "incomplete"
+    },
+    {
+        "K": "495",
+        "K6": "495",
+        "title": "Horn Concerto",
+        "force": "hn orch",
+        "key": "E♭ major",
+        "date": "1786",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "496",
+        "K6": "496",
+        "title": "Piano Trio (\"No.2\")",
+        "force": "vn vc pf",
+        "key": "G major",
+        "date": "1786",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "487",
+        "K6": "496a",
+        "title": "Horn Duos (12)",
+        "force": "2bsthn",
+        "key": "",
+        "date": "1786",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "497",
+        "K6": "497",
+        "title": "Sonata",
+        "force": "pf4h",
+        "key": "F major",
+        "date": "1786",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "357",
+        "K6": "497a",
+        "title": "Sonata",
+        "force": "pf4h",
+        "key": "G major",
+        "date": "1787?",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "498",
+        "K6": "498",
+        "title": "Trio (\"Kegelstatt\")",
+        "force": "cl va pf",
+        "key": "E♭ major",
+        "date": "1786",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "499",
+        "K6": "499",
+        "title": "String Quartet (\"Hoffmeister\")",
+        "force": "2vn va vc",
+        "key": "D major",
+        "date": "1786",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "500",
+        "K6": "500",
+        "title": "Variations (12)",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1786",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "357",
+        "K6": "500a",
+        "title": "Variations",
+        "force": "pf4h",
+        "key": "G major",
+        "date": "1791",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "501",
+        "K6": "501",
+        "title": "Variations (5)",
+        "force": "pf4h",
+        "key": "G major",
+        "date": "1786",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "502",
+        "K6": "502",
+        "title": "Piano Trio (\"No.3\")",
+        "force": "vn vc pf",
+        "key": "B♭ major",
+        "date": "1786",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.60",
+        "K6": "502a",
+        "title": "Piano Concerto",
+        "force": "pf orch",
+        "key": "C major",
+        "date": "1784–85",
+        "genre": "Orchestral",
+        "notes": "incomplete"
+    },
+    {
+        "K": "503",
+        "K6": "503",
+        "title": "Piano Concerto No.25",
+        "force": "pf orch",
+        "key": "C major",
+        "date": "1784–86",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "504",
+        "K6": "504",
+        "title": "Symphony No.38 (\"Prague\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1786",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "505",
+        "K6": "505",
+        "title": "Ch'io mi scordi di te? (\"Non temer, amato bene\")",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1786",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "506",
+        "K6": "506",
+        "title": "Lied der Freiheit (\"Wer unter eines Mädchens Hand\")",
+        "force": "v pf",
+        "key": "F major",
+        "date": "1786",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "507",
+        "K6": "507",
+        "title": "Canon (\"Heiterkeit und leichtes\")",
+        "force": "3vv",
+        "key": "F major",
+        "date": "1786",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "508",
+        "K6": "508",
+        "title": "Canon (\"Auf das Wohl aller Freunde\")",
+        "force": "3vv",
+        "key": "F major",
+        "date": "1786",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "508a",
+        "title": "Canons for 2 or 3 Voices (8)",
+        "force": "2vv/3vv",
+        "key": "",
+        "date": "1786",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "509",
+        "K6": "509",
+        "title": "German Dances (6)",
+        "force": "orch",
+        "key": "",
+        "date": "1787",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "232",
+        "K6": "509a",
+        "title": "Canon (\"Lieber Freistädtler, lieber Gaulimauli\")",
+        "force": "4vv",
+        "key": "G major",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "511",
+        "K6": "511",
+        "title": "Rondo (\"No.3\")",
+        "force": "pf",
+        "key": "A minor",
+        "date": "1787",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "512",
+        "K6": "512",
+        "title": "Alcandro, Io confesso (\"Non só d'onde viene\")",
+        "force": "v orch",
+        "key": "F major",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "513",
+        "K6": "513",
+        "title": "Mentre ti lascio, o figlia",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "Anh.80",
+        "K6": "514a",
+        "title": "String Quintet",
+        "force": "2vn 2va vc",
+        "key": "B♭ major",
+        "date": "1787",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "515",
+        "K6": "515",
+        "title": "String Quintet No.3",
+        "force": "2vn 2va vc",
+        "key": "C major",
+        "date": "1787",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "228",
+        "K6": "515b",
+        "title": "Double Canon for 4 Voices",
+        "force": "4vv",
+        "key": "F major",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "Anh.79",
+        "K6": "515c",
+        "title": "String Quintet",
+        "force": "2vn 2va vc",
+        "key": "A minor",
+        "date": "1787",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "516",
+        "K6": "516",
+        "title": "String Quintet No.4",
+        "force": "2vn 2va vc",
+        "key": "G minor",
+        "date": "1787",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "406",
+        "K6": "516b",
+        "title": "String Quintet No.2",
+        "force": "2vn 2va vc",
+        "key": "C minor",
+        "date": "1787–88?",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.91",
+        "K6": "516c",
+        "title": "Clarinet Quintet",
+        "force": "cl 2vn va vc",
+        "key": "B♭ major",
+        "date": "1788–91?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "—",
+        "K6": "516f",
+        "title": "Musikalische Würfelspiel (\"Musical Dice Game\")",
+        "force": "",
+        "key": "C major",
+        "date": "1787",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "517",
+        "K6": "517",
+        "title": "Die Alte (\"Zu meiner Zeit\")",
+        "force": "v pf",
+        "key": "E minor",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "518",
+        "K6": "518",
+        "title": "Die Verschweigung (\"Sobald Damötas Chloen sieht\")",
+        "force": "v pf",
+        "key": "F major",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "519",
+        "K6": "519",
+        "title": "Das Lied der Trennung (\"Die Engel Gottes weinen\")",
+        "force": "v pf",
+        "key": "F minor",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "520",
+        "K6": "520",
+        "title": "Als Luise die Briefe (\"Erzeugt von heisser Phantasie\")",
+        "force": "v pf",
+        "key": "C minor",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "521",
+        "K6": "521",
+        "title": "Piano Sonata",
+        "force": "pf4h",
+        "key": "C major",
+        "date": "1787",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "522",
+        "K6": "522",
+        "title": "Ein musikalischer Spaß (\"A Musical Joke\")",
+        "force": "orch",
+        "key": "F major",
+        "date": "1785–87?",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "523",
+        "K6": "523",
+        "title": "Abendempfindung (\"Abend ist's\")",
+        "force": "v pf",
+        "key": "F major",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "524",
+        "K6": "524",
+        "title": "An Chloe (\"Wenn die Lieb'\")",
+        "force": "v pf",
+        "key": "E♭ major",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "525",
+        "K6": "525",
+        "title": "Eine kleine Nachtmusik (\"Serenade No.13\")",
+        "force": "str",
+        "key": "G major",
+        "date": "1787",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "526",
+        "K6": "526",
+        "title": "Violin Sonata (\"No.35\")",
+        "force": "vn pf",
+        "key": "A major",
+        "date": "1787",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "527",
+        "K6": "527",
+        "title": "Don Giovanni",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1787",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "528",
+        "K6": "528",
+        "title": "Bella mia fiamma (\"Resta, o cara!\")",
+        "force": "v orch",
+        "key": "C major",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "529",
+        "K6": "529",
+        "title": "Des kleinen Friedrichs Geburtstag (\"Es war einmal\")",
+        "force": "v pf",
+        "key": "F major",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "530",
+        "K6": "530",
+        "title": "Das Traumbild (\"Wo bist du, Bild\")",
+        "force": "v pf",
+        "key": "E♭ major",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "531",
+        "K6": "531",
+        "title": "Die kleine Spinnerin (\"Was spinnst du?\")",
+        "force": "v pf",
+        "key": "C major",
+        "date": "1787",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "532",
+        "K6": "532",
+        "title": "Grazie agl'inganni tuoi",
+        "force": "3vv orch",
+        "key": "B♭ major",
+        "date": "1784–85",
+        "genre": "Vocal",
+        "notes": "incomplete"
+    },
+    {
+        "K": "533",
+        "K6": "533",
+        "title": "Piano Sonata No.15",
+        "force": "pf",
+        "key": "F major",
+        "date": "1788",
+        "genre": "Keyboard",
+        "notes": "includes 2nd version of K.494"
+    },
+    {
+        "K": "534",
+        "K6": "534",
+        "title": "Country Dance (\"Das Donnerwetter\" or \"The Thunderstorm\")",
+        "force": "orch",
+        "key": "D major",
+        "date": "1788",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "535",
+        "K6": "535",
+        "title": "Country Dance (\"La Bataille\")",
+        "force": "orch",
+        "key": "C major",
+        "date": "1788",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "535a",
+        "title": "Country Dances (3)",
+        "force": "orch",
+        "key": "",
+        "date": "1788",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "Anh.107",
+        "K6": "535b",
+        "title": "Country Dance",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "1788",
+        "genre": "Orchestral",
+        "notes": "incomplete"
+    },
+    {
+        "K": "536",
+        "K6": "536",
+        "title": "German Dances (6)",
+        "force": "orch",
+        "key": "",
+        "date": "1788",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "537",
+        "K6": "537",
+        "title": "Piano Concerto No.26 (\"Coronation\")",
+        "force": "pf orch",
+        "key": "D major",
+        "date": "1787–88",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "537d",
+        "title": "Ich folge dir, verklärter Held",
+        "force": "v orch",
+        "key": "D major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": "re-orchestration of a work by Carl Philipp Emanuel Bach"
+    },
+    {
+        "K": "538",
+        "K6": "538",
+        "title": "Ah se in ciel",
+        "force": "v orch",
+        "key": "F major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "539",
+        "K6": "539",
+        "title": "Ein deutsches Kriegslied (\"Ich möchte wohl der Kaiser sein\")",
+        "force": "v pf",
+        "key": "A major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "540",
+        "K6": "540",
+        "title": "Adagio",
+        "force": "pf",
+        "key": "B minor",
+        "date": "1788",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "540a",
+        "title": "Dalla sua pace",
+        "force": "v orch",
+        "key": "G major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "540b",
+        "title": "Per queste tue manine",
+        "force": "2vv orch",
+        "key": "C major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "540c",
+        "title": "In quali eccesi",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "541",
+        "K6": "541",
+        "title": "Un bacio di mano",
+        "force": "v orch",
+        "key": "F major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "542",
+        "K6": "542",
+        "title": "Piano Trio (\"No.4\")",
+        "force": "vn vc pf",
+        "key": "E major",
+        "date": "1788",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "543",
+        "K6": "543",
+        "title": "Symphony No.39",
+        "force": "orch",
+        "key": "E♭ major",
+        "date": "1788",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "545",
+        "K6": "545",
+        "title": "Piano Sonata No.16 (\"Semplice\")",
+        "force": "pf",
+        "key": "C major",
+        "date": "1788",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "546",
+        "K6": "546",
+        "title": "Adagio and Fugue",
+        "force": "2vn va vc",
+        "key": "C minor",
+        "date": "1788",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.47",
+        "K6": "546a",
+        "title": "Violin Sonata",
+        "force": "vn pf",
+        "key": "G major",
+        "date": "1788–91?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "547",
+        "K6": "547",
+        "title": "Violin Sonata (\"No.32\" or \"For Beginners \")",
+        "force": "vn pf",
+        "key": "F major",
+        "date": "1788",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.135",
+        "K6": "547a",
+        "title": "Piano Sonata",
+        "force": "pf",
+        "key": "F major",
+        "date": "1788",
+        "genre": "Keyboard",
+        "notes": "Sometimes catalogued as K.627"
+    },
+    {
+        "K": "54",
+        "K6": "547b",
+        "title": "Variations (6)",
+        "force": "pf",
+        "key": "F major",
+        "date": "1788",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "548",
+        "K6": "548",
+        "title": "Piano Trio (\"No.5\")",
+        "force": "vn vc pf",
+        "key": "C major",
+        "date": "1788",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "549",
+        "K6": "549",
+        "title": "Piú non si trovano",
+        "force": "2sop bass 3bsthn",
+        "key": "B♭ major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "550",
+        "K6": "550",
+        "title": "Symphony No.40",
+        "force": "orch",
+        "key": "G minor",
+        "date": "1788",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "551",
+        "K6": "551",
+        "title": "Symphony No.41 (\"Jupiter\")",
+        "force": "orch",
+        "key": "C major",
+        "date": "1788",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "552",
+        "K6": "552",
+        "title": "Beim Auszug in das Feld",
+        "force": "v pf",
+        "key": "A major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "553",
+        "K6": "553",
+        "title": "Canon (\"Alleluia\")",
+        "force": "3vv",
+        "key": "C major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "554",
+        "K6": "554",
+        "title": "Canon (\"Ave Maria\")",
+        "force": "4vv",
+        "key": "F major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "555",
+        "K6": "555",
+        "title": "Canon (\"Lacrimoso son'io\")",
+        "force": "4vv",
+        "key": "A minor",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "556",
+        "K6": "556",
+        "title": "Canon (\"G'rechtelt's enk\")",
+        "force": "4vv",
+        "key": "G major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "557",
+        "K6": "557",
+        "title": "Canon (\"Nascoso è il mio sol\")",
+        "force": "4vv",
+        "key": "F minor",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "558",
+        "K6": "558",
+        "title": "Canon (\"Gehn wir im Prater\")",
+        "force": "4vv",
+        "key": "B♭ major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "559",
+        "K6": "559",
+        "title": "Canon (\"Difficile lectu mihi mars\")",
+        "force": "3vv",
+        "key": "F major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "559a",
+        "title": "Canon (\"O du eselhafter Peierl\")",
+        "force": "4vv",
+        "key": "F major",
+        "date": "1785",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "560",
+        "K6": "560",
+        "title": "Canon (\"O du eselhafter Martin\")",
+        "force": "4vv",
+        "key": "F major",
+        "date": "1783?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "561",
+        "K6": "561",
+        "title": "Canon (\"Bona nox, bist a rechta Ox\")",
+        "force": "4vv",
+        "key": "A major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "562",
+        "K6": "562",
+        "title": "Canon (\"Caro bell' idol mio\")",
+        "force": "3vv",
+        "key": "A major",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "562a",
+        "title": "Canon",
+        "force": "4vv",
+        "key": "B♭ major",
+        "date": "1785?",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "Anh.191",
+        "K6": "562c",
+        "title": "Canon",
+        "force": "4vv",
+        "key": "C major",
+        "date": "1782",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "Anh.66",
+        "K6": "562e",
+        "title": "String Trio",
+        "force": "vn va vc",
+        "key": "G major",
+        "date": "1789–91?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "563",
+        "K6": "563",
+        "title": "Divertimento",
+        "force": "vn va vc",
+        "key": "E♭ major",
+        "date": "1788",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "564",
+        "K6": "564",
+        "title": "Piano Trio (\"No.6\")",
+        "force": "vn vc pf",
+        "key": "G major",
+        "date": "1788",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "566",
+        "K6": "566",
+        "title": "Acis and Galatea",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1788",
+        "genre": "Vocal",
+        "notes": "re-orchestration of a work by George Frideric Handel"
+    },
+    {
+        "K": "567",
+        "K6": "567",
+        "title": "German Dances (6)",
+        "force": "orch",
+        "key": "",
+        "date": "1788",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "568",
+        "K6": "568",
+        "title": "Minuets (12)",
+        "force": "orch",
+        "key": "",
+        "date": "1788",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "Anh.31",
+        "K6": "569a",
+        "title": "Piano Sonata",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1789",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "570",
+        "K6": "570",
+        "title": "Piano Sonata",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "1789",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "571",
+        "K6": "571",
+        "title": "German Dances (6)",
+        "force": "orch",
+        "key": "",
+        "date": "1789",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "Anh.5",
+        "K6": "571a",
+        "title": "Caro mio Druck und Schluck (\"Scherzhaftes\")",
+        "force": "4vv pf",
+        "key": "E♭ major",
+        "date": "1789",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "572",
+        "K6": "572",
+        "title": "Messiah",
+        "force": "5vv ch orch",
+        "key": "",
+        "date": "1789",
+        "genre": "Vocal",
+        "notes": "re-orchestration of a work by George Frideric Handel"
+    },
+    {
+        "K": "573",
+        "K6": "573",
+        "title": "Variations (9) on a Minuet by Duport",
+        "force": "pf",
+        "key": "D major",
+        "date": "1789",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "574",
+        "K6": "574",
+        "title": "Gigue (\"Eine kleine Gigue\")",
+        "force": "pf",
+        "key": "G major",
+        "date": "1789",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "575",
+        "K6": "575",
+        "title": "String Quartet No.21 (\"First Prussian Quartet\")",
+        "force": "2vn va vc",
+        "key": "D major",
+        "date": "1789",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "576",
+        "K6": "576",
+        "title": "Piano Sonata No.18",
+        "force": "pf",
+        "key": "D major",
+        "date": "1789",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "Anh.34",
+        "K6": "576a",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "D major",
+        "date": "1789",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "355",
+        "K6": "576b",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "D major",
+        "date": "1789",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "577",
+        "K6": "577",
+        "title": "Al desio, di chi t'adora",
+        "force": "v orch",
+        "key": "F major",
+        "date": "1789",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "578",
+        "K6": "578",
+        "title": "Alma grande e nobil core",
+        "force": "v orch",
+        "key": "B♭ major",
+        "date": "1789",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "579",
+        "K6": "579",
+        "title": "Un moto di gioia mi sento",
+        "force": "v orch",
+        "key": "G major",
+        "date": "1789",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "580",
+        "K6": "580",
+        "title": "Schon lacht der holde Frühling",
+        "force": "v orch",
+        "key": "B♭ major",
+        "date": "1789",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "Anh.94",
+        "K6": "580a",
+        "title": "Adagio",
+        "force": "cl 3bsthn",
+        "key": "F major",
+        "date": "1783–85?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "Anh.90",
+        "K6": "580b",
+        "title": "Quintet",
+        "force": "cl bsthn vn va vc",
+        "key": "F major",
+        "date": "1789?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "581",
+        "K6": "581",
+        "title": "Clarinet Quintet",
+        "force": "cl 2vn va vc",
+        "key": "A major",
+        "date": "1789",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.88",
+        "K6": "581a",
+        "title": "Clarinet Quintet",
+        "force": "cl 2vn va vc",
+        "key": "A major",
+        "date": "1789",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "582",
+        "K6": "582",
+        "title": "Chi sà, chi sà, qual sia",
+        "force": "v orch",
+        "key": "C major",
+        "date": "1789",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "583",
+        "K6": "583",
+        "title": "Vado, ma dove?",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1789",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "584",
+        "K6": "584",
+        "title": "Rivolgete a lui lo sguardo",
+        "force": "v orch",
+        "key": "D major",
+        "date": "1789",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "585",
+        "K6": "585",
+        "title": "Minuets (12)",
+        "force": "orch",
+        "key": "",
+        "date": "1789",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "586",
+        "K6": "586",
+        "title": "German Dances (12)",
+        "force": "orch",
+        "key": "",
+        "date": "1789",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "587",
+        "K6": "587",
+        "title": "Country Dance (\"Der Sieg vom Helden Koburg\")",
+        "force": "orch",
+        "key": "C major",
+        "date": "1789",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "Anh.74",
+        "K6": "587a",
+        "title": "String Quartet",
+        "force": "2vn va vc",
+        "key": "G minor",
+        "date": "1789",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "588",
+        "K6": "588",
+        "title": "Così fan tutte",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1790",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "106",
+        "K6": "588a",
+        "title": "Overture and 3 Country Dances",
+        "force": "orch",
+        "key": "",
+        "date": "1790",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "236",
+        "K6": "588b",
+        "title": "Andantino",
+        "force": "pf",
+        "key": "E♭ major",
+        "date": "1783",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "589",
+        "K6": "589",
+        "title": "String Quartet No.22 (\"Second Prussian Quartet\")",
+        "force": "2vn va vc",
+        "key": "B♭ major",
+        "date": "1790",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.68",
+        "K6": "589a",
+        "title": "Allegretto",
+        "force": "2vn va vc",
+        "key": "B♭ major",
+        "date": "1790",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "590",
+        "K6": "590",
+        "title": "String Quartet No.23 (\"Third Prussian Quartet\")",
+        "force": "2vn va vc",
+        "key": "F major",
+        "date": "1790",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.29",
+        "K6": "590a",
+        "title": "Piano Sonata",
+        "force": "Piano",
+        "key": "F major",
+        "date": "1789",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "Anh.30",
+        "K6": "590b",
+        "title": "Piano Sonata",
+        "force": "Piano",
+        "key": "F major",
+        "date": "1789",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "Anh.37",
+        "K6": "590c",
+        "title": "Rondo",
+        "force": "Piano",
+        "key": "F major",
+        "date": "1789",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "312",
+        "K6": "590d",
+        "title": "Allegro",
+        "force": "pf",
+        "key": "G minor",
+        "date": "1790",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "591",
+        "K6": "591",
+        "title": "Alexander's Feast",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1790",
+        "genre": "Vocal",
+        "notes": "re-orchestration of a work by George Frideric Handel"
+    },
+    {
+        "K": "592",
+        "K6": "592",
+        "title": "Ode for St. Cecilia's Day",
+        "force": "2vv ch orch",
+        "key": "",
+        "date": "1790",
+        "genre": "Vocal",
+        "notes": "re-orchestration of a work by George Frideric Handel"
+    },
+    {
+        "K": "625",
+        "K6": "592a",
+        "title": "Nun liebes Weibchen, ziehst mit mir",
+        "force": "2vv orch",
+        "key": "D major",
+        "date": "1790",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "593",
+        "K6": "593",
+        "title": "String Quintet No.5",
+        "force": "2vn 2va vc",
+        "key": "D major",
+        "date": "1790",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "Anh.35",
+        "K6": "593a",
+        "title": "Adagio",
+        "force": "morg",
+        "key": "D minor",
+        "date": "1790",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "594",
+        "K6": "594",
+        "title": "Adagio and Allegro",
+        "force": "morg",
+        "key": "F minor",
+        "date": "1790",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "595",
+        "K6": "595",
+        "title": "Piano Concerto No.27",
+        "force": "pf orch",
+        "key": "B♭ major",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "596",
+        "K6": "596",
+        "title": "Sehnsucht nach dem Frühling (\"Komm, lieber Mai\")",
+        "force": "v pf",
+        "key": "F major",
+        "date": "1791",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "597",
+        "K6": "597",
+        "title": "Im Frühlingsanfang",
+        "force": "v pf",
+        "key": "E♭ major",
+        "date": "1791",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "598",
+        "K6": "598",
+        "title": "Das Kinderspiel",
+        "force": "v pf",
+        "key": "A major",
+        "date": "1791",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "599",
+        "K6": "599",
+        "title": "Minuets (6)",
+        "force": "orch",
+        "key": "",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "600",
+        "K6": "600",
+        "title": "German Dances (6)",
+        "force": "orch",
+        "key": "",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "601",
+        "K6": "601",
+        "title": "Minuets (4)",
+        "force": "orch",
+        "key": "",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "602",
+        "K6": "602",
+        "title": "German Dances (4)",
+        "force": "orch",
+        "key": "",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "603",
+        "K6": "603",
+        "title": "Country Dances (2)",
+        "force": "orch",
+        "key": "",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "604",
+        "K6": "604",
+        "title": "Minuets (2)",
+        "force": "orch",
+        "key": "",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "605",
+        "K6": "605",
+        "title": "German Dances (3)",
+        "force": "orch",
+        "key": "",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "607",
+        "K6": "605a",
+        "title": "Country Dance (\"Il Trionfo delle Donne\")",
+        "force": "orch",
+        "key": "E♭ major",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "606",
+        "K6": "606",
+        "title": "Ländlerische Tänze (6) (\"German Dances\")",
+        "force": "orch",
+        "key": "",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "608",
+        "K6": "608",
+        "title": "Fantasia",
+        "force": "morg",
+        "key": "F minor",
+        "date": "1791",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "609",
+        "K6": "609",
+        "title": "Country Dances (5)",
+        "force": "orch",
+        "key": "",
+        "date": "1787",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "610",
+        "K6": "610",
+        "title": "Country Dance (\"Les filles malicieuses\")",
+        "force": "orch",
+        "key": "G major",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "611",
+        "K6": "611",
+        "title": "German Dance (\"Die Leyerer\")",
+        "force": "orch",
+        "key": "C major",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "612",
+        "K6": "612",
+        "title": "Per questa bella mano",
+        "force": "v orch",
+        "key": "D major",
+        "date": "1791",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "613",
+        "K6": "613",
+        "title": "Variations (8) on \"Ein Weib ist das herrlichste Ding\"",
+        "force": "pf",
+        "key": "F major",
+        "date": "1791",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "Anh.81",
+        "K6": "613a",
+        "title": "String Quintet",
+        "force": "2vn 2va vc",
+        "key": "E♭ major",
+        "date": "1784–85",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "Anh.82",
+        "K6": "613b",
+        "title": "String Quintet",
+        "force": "2vn 2va vc",
+        "key": "E♭ major",
+        "date": "1791?",
+        "genre": "Chamber",
+        "notes": "incomplete"
+    },
+    {
+        "K": "614",
+        "K6": "614",
+        "title": "String Quintet No.6",
+        "force": "2vn 2va vc",
+        "key": "E♭ major",
+        "date": "1791",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "616",
+        "K6": "616",
+        "title": "Andante",
+        "force": "morg",
+        "key": "F major",
+        "date": "1790–91",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "617",
+        "K6": "617",
+        "title": "Adagio and Rondo",
+        "force": "fl ob ghca va vc",
+        "key": "C minor",
+        "date": "1791",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "356",
+        "K6": "617a",
+        "title": "Adagio",
+        "force": "ghca",
+        "key": "C major",
+        "date": "1791",
+        "genre": "Chamber",
+        "notes": ""
+    },
+    {
+        "K": "618",
+        "K6": "618",
+        "title": "Ave verum corpus",
+        "force": "ch org str",
+        "key": "D major",
+        "date": "1791",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "619",
+        "K6": "619",
+        "title": "Die ihr des unermesslichen Weltalls (\"Little German cantata\")",
+        "force": "v pf",
+        "key": "C major",
+        "date": "1791",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "620",
+        "K6": "620",
+        "title": "Die Zauberflöte (\"The Magic Flute\")",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1791",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "Anh.78",
+        "K6": "620b",
+        "title": "Contrapuntal Study",
+        "force": "pf",
+        "key": "B minor",
+        "date": "1782?",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "621",
+        "K6": "621",
+        "title": "La clemenza di Tito",
+        "force": "vv ch orch",
+        "key": "",
+        "date": "1791",
+        "genre": "Stage",
+        "notes": ""
+    },
+    {
+        "K": "Anh.245",
+        "K6": "621a",
+        "title": "Io ti lascio, o cara, addio",
+        "force": "v orch",
+        "key": "E♭ major",
+        "date": "1787–89",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "621b",
+        "title": "Basset Horn Concerto",
+        "force": "bsthn orch",
+        "key": "G major",
+        "date": "1787–91",
+        "genre": "Orchestral",
+        "notes": "incomplete"
+    },
+    {
+        "K": "622",
+        "K6": "622",
+        "title": "Clarinet Concerto",
+        "force": "cl orch",
+        "key": "A major",
+        "date": "1791",
+        "genre": "Orchestral",
+        "notes": ""
+    },
+    {
+        "K": "623",
+        "K6": "623",
+        "title": "Laut verkünde unsre Freude (\"Freimaurerkantate\")",
+        "force": "mch",
+        "key": "C major",
+        "date": "1791",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "623a",
+        "title": "Bundeslied (\"Lasst uns mit geschlungnen Händen\")",
+        "force": "v mch pf",
+        "key": "F major",
+        "date": "1791",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "626",
+        "K6": "626",
+        "title": "Requiem",
+        "force": "vv ch orch",
+        "key": "D minor",
+        "date": "1791",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "624",
+        "K6": "626a",
+        "title": "Cadenzas (36)",
+        "force": "pf",
+        "key": "",
+        "date": "1777–91",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "—",
+        "K6": "626b",
+        "title": "Fingerübungen",
+        "force": "pf",
+        "key": "",
+        "date": "1786-90?",
+        "genre": "Keyboard",
+        "notes": ""
+    },
+    {
+        "K": "Anh.39a",
+        "K6": "626n/27",
+        "title": "Fugue",
+        "force": "pf",
+        "key": "C minor",
+        "date": "1781–84?",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "221",
+        "K6": "Anh.A 1",
+        "title": "Kyrie",
+        "force": "ch bc",
+        "key": "C major",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (by Johann Ernst Eberlin)"
+    },
+    {
+        "K": "Anh.21",
+        "K6": "Anh.A 2",
+        "title": "Lacrimosa",
+        "force": "ch bc",
+        "key": "C minor",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (by Johann Ernst Eberlin)"
+    },
+    {
+        "K": "327",
+        "K6": "Anh.A 10",
+        "title": "Adoramus te",
+        "force": "ch bc",
+        "key": "C minor",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (by Francesco Gasparini)"
+    },
+    {
+        "K": "93",
+        "K6": "Anh.A 22",
+        "title": "De profundis clamavi",
+        "force": "ch org",
+        "key": "C major",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (by Georg Reutter)"
+    },
+    {
+        "K": "18",
+        "K6": "Anh.A 51",
+        "title": "Symphony No.3",
+        "force": "orch",
+        "key": "E♭ major",
+        "date": "—",
+        "genre": "Orchestral",
+        "notes": "spurious (by Carl Friedrich Abel)"
+    },
+    {
+        "K": "291",
+        "K6": "Anh.A 52",
+        "title": "Fugue",
+        "force": "orch",
+        "key": "D major",
+        "date": "—",
+        "genre": "Orchestral",
+        "notes": "spurious (by Michael Haydn)"
+    },
+    {
+        "K": "140",
+        "K6": "Anh.C 1.12",
+        "title": "Missa brevis",
+        "force": "4vv orch",
+        "key": "G major",
+        "date": "1770?",
+        "genre": "Vocal",
+        "notes": "Mozart's authorship doubtful"
+    },
+    {
+        "K": "142",
+        "K6": "Anh.C 3.04",
+        "title": "Tantum ergo",
+        "force": "ch orch",
+        "key": "B♭ major",
+        "date": "1772–74?",
+        "genre": "Vocal",
+        "notes": "Mozart's authorship doubtful"
+    },
+    {
+        "K": "197",
+        "K6": "Anh.C 3.05",
+        "title": "Tantum ergo",
+        "force": "ch orch",
+        "key": "D major",
+        "date": "1772–74?",
+        "genre": "Vocal",
+        "notes": "Mozart's authorship doubtful"
+    },
+    {
+        "K": "198",
+        "K6": "Anh.C 3.08",
+        "title": "Sub tuum praesidium",
+        "force": "2vv orch",
+        "key": "F major",
+        "date": "1774?",
+        "genre": "Vocal",
+        "notes": "Mozart's authorship doubtful"
+    },
+    {
+        "K": "177",
+        "K6": "Anh.C 3.09",
+        "title": "Convertentur sedentes",
+        "force": "2vv orch",
+        "key": "",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (by Leopold Mozart)"
+    },
+    {
+        "K": "—",
+        "K6": "Anh.C 3.15",
+        "title": "Sancta Maria",
+        "force": "sop/ten org/harm",
+        "key": "G major",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (composer unknown)"
+    },
+    {
+        "K": "350",
+        "K6": "Anh.C 8.48",
+        "title": "Wiegenlied (\"Schlafe mein Prinzchen\")",
+        "force": "v pf",
+        "key": "",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": "spurious (by Bernhard Flies)"
+    },
+    {
+        "K": "—",
+        "K6": "Anh.C 9.10",
+        "title": "Abendruhe (Abendlied)",
+        "force": "ch",
+        "key": "B♭ major",
+        "date": "—",
+        "genre": "Vocal",
+        "notes": ""
+    },
+    {
+        "K": "17",
+        "K6": "Anh.C 11.02",
+        "title": "Symphony No.2",
+        "force": "orch",
+        "key": "B♭ major",
+        "date": "—",
+        "genre": "Orchestral",
+        "notes": "spurious (by Leopold Mozart)"
+    },
+    {
+        "K": "98",
+        "K6": "Anh.C 11.04",
+        "title": "Symphony F major",
+        "force": "orch",
+        "key": "F major",
+        "date": "—",
+        "genre": "Orchestral",
+        "notes": "doubtful"
+    },
+    {
+        "K": "510",
+        "K6": "Anh.C 13.02",
+        "title": "Country Dances (9) (\"Quadrilles\")",
+        "force": "orch",
+        "key": "",
+        "date": "1787?",
+        "genre": "Orchestral",
+        "notes": "Mozart's authorship doubtful"
+    },
+    {
+        "K": "297b",
+        "K6": "Anh.C 14.01",
+        "title": "Sinfonia concertante",
+        "force": "ob cl bn hn orch",
+        "key": "E♭ major",
+        "date": "1778?",
+        "genre": "Orchestral",
+        "notes": "Mozart's authorship doubtful"
+    },
+    {
+        "K": "297b",
+        "K6": "Anh.C 14.06",
+        "title": "Oboe Concerto in E-flat major",
+        "force": "ob cl bn hn orch",
+        "key": "E♭ major",
+        "date": "?",
+        "genre": "Orchestral",
+        "notes": "Mozart's authorship doubtful"
+    },
+    {
+        "K": "187",
+        "K6": "Anh.C 17.12",
+        "title": "Divertimento (\"No.5\")",
+        "force": "2fl 5tpt timp",
+        "key": "C major",
+        "date": "—",
+        "genre": "Chamber",
+        "notes": "spurious (composer unknown)"
+    },
+    {
+        "K": "268",
+        "K6": "Anh.C 14.04",
+        "title": "Violin Concerto",
+        "force": "vn orch",
+        "key": "E♭ major",
+        "date": "1790?",
+        "genre": "Orchestral",
+        "notes": "Mozart's authorship doubtful"
+    },
+    {
+        "K": "55",
+        "K6": "Anh.C 23.01",
+        "title": "Violin Sonata",
+        "force": "vn pf",
+        "key": "C major",
+        "date": "—",
+        "genre": "Chamber",
+        "notes": "spurious (composer unknown)"
+    },
+    {
+        "K": "56",
+        "K6": "Anh.C 23.02",
+        "title": "Violin Sonata",
+        "force": "vn pf",
+        "key": "C major",
+        "date": "—",
+        "genre": "Chamber",
+        "notes": "spurious (composer unknown)"
+    },
+    {
+        "K": "57",
+        "K6": "Anh.C 23.03",
+        "title": "Violin Sonata",
+        "force": "vn pf",
+        "key": "C major",
+        "date": "—",
+        "genre": "Chamber",
+        "notes": "spurious (composer unknown)"
+    },
+    {
+        "K": "58",
+        "K6": "Anh.C 23.04",
+        "title": "Violin Sonata",
+        "force": "vn pf",
+        "key": "E♭ major",
+        "date": "—",
+        "genre": "Chamber",
+        "notes": "spurious (composer unknown)"
+    },
+    {
+        "K": "59",
+        "K6": "Anh.C 23.05",
+        "title": "Violin Sonata",
+        "force": "vn pf",
+        "key": "C major",
+        "date": "—",
+        "genre": "Chamber",
+        "notes": "spurious (composer unknown)"
+    },
+    {
+        "K": "60",
+        "K6": "Anh.C 23.06",
+        "title": "Violin Sonata",
+        "force": "vn pf",
+        "key": "E minor",
+        "date": "—",
+        "genre": "Chamber",
+        "notes": "spurious (composer unknown)"
+    },
+    {
+        "K": "61",
+        "K6": "Anh.C 23.07",
+        "title": "Violin Sonata",
+        "force": "vn pf",
+        "key": "A major",
+        "date": "—",
+        "genre": "Chamber",
+        "notes": "spurious (by Hermann Friedrich Raupach)"
+    },
+    {
+        "K": "498a/1",
+        "K6": "Anh.C 25.04",
+        "title": "Allegro",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "?",
+        "genre": "Keyboard",
+        "notes": "published as part of spurious Piano Sonata in B-flat major by August Eberhard Müller"
+    },
+    {
+        "K": "498a/3",
+        "K6": "Anh.C 25.05",
+        "title": "Minuet",
+        "force": "pf",
+        "key": "B♭ major",
+        "date": "?",
+        "genre": "Keyboard",
+        "notes": "published as part of spurious Piano Sonata in B-flat major by August Eberhard Müller"
+    },
+    {
+        "K": "—",
+        "K6": "Anh.C 27.03",
+        "title": "Fantasia",
+        "force": "org",
+        "key": "G minor",
+        "date": "1787",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "—",
+        "K6": "Anh.C 27.04",
+        "title": "Romance",
+        "force": "pf",
+        "key": "A♭ major",
+        "date": "?",
+        "genre": "Keyboard",
+        "notes": "incomplete; Mozart's authorship doubtful"
+    },
+    {
+        "K": "—",
+        "K6": "Anh.C 27.10",
+        "title": "Fugue",
+        "force": "pf",
+        "key": "E major",
+        "date": "?",
+        "genre": "Keyboard",
+        "notes": "incomplete"
+    },
+    {
+        "K": "46",
+        "K6": "—",
+        "title": "Quintet",
+        "force": "2vn 2va vc",
+        "key": "B♭ major",
+        "date": "—",
+        "genre": "Chamber",
+        "notes": "spurious, anonymous arrangement of parts of K.361/370a"
+    }
+]
